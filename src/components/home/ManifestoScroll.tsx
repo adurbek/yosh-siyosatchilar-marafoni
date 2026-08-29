@@ -32,13 +32,14 @@ export function ManifestoScroll({
       <Container className="grid grid-cols-1 items-start gap-10 md:grid-cols-2 md:gap-16">
         {/* ===== Left: logos + manifesto text ===== */}
         <div className="flex flex-col gap-8">
-          {/* Organiser / partner logos — sized to fit the column on one row
-              so the wide KAS mark is never clipped. */}
-          <div className="flex flex-wrap items-center justify-center gap-4 md:flex-nowrap md:justify-between md:gap-6">
+          {/* Organiser / partner logos. Wrap on narrow widths; sized to fit
+              the column so the wide marks are never clipped. */}
+          <div className="flex flex-wrap items-center justify-center gap-3 md:flex-nowrap md:justify-between md:gap-4">
             {[
-              { src: "/logo-marafon-navy.png", alt: tNav("logoAlt"), width: 905, height: 393, size: "h-16 md:h-20" },
-              { src: "/logo-yoshlar-parlamenti.png", alt: tNav("logoYouthParliament"), width: 1492, height: 875, size: "h-16 md:h-20" },
-              { src: "/logo-kas.png", alt: "Konrad Adenauer Stiftung", width: 1741, height: 531, size: "h-11 md:h-14" },
+              { src: "/logo-yuksalish.png", alt: "Yuksalish", width: 5670, height: 2376, size: "h-9 md:h-11" },
+              { src: "/logo-eu.png", alt: "Co-funded by the European Union", width: 3057, height: 639, size: "h-7 md:h-9" },
+              { src: "/logo-yoshlar-parlamenti.png", alt: tNav("logoYouthParliament"), width: 1492, height: 875, size: "h-10 md:h-14" },
+              { src: "/logo-kas.png", alt: "Konrad Adenauer Stiftung", width: 1741, height: 531, size: "h-7 md:h-9" },
             ].map((logo) => (
               <Image
                 key={logo.src}

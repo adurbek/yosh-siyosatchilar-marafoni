@@ -26,29 +26,13 @@ export function Footer() {
         <div className="grid grid-cols-1 gap-10 md:grid-cols-12">
           {/* Brand + tagline */}
           <div className="md:col-span-4">
-            <div className="mb-5 flex flex-wrap items-center justify-center gap-3 md:flex-nowrap md:justify-start md:gap-4">
-              <Image
-                src="/logo-marafon-white.png"
-                alt={tNav("logoAlt")}
-                width={160}
-                height={70}
-                className="h-[52px] w-auto"
-              />
-              <span className="h-9 w-px flex-shrink-0 bg-white/20" aria-hidden />
+            <div className="mb-5 flex justify-center md:justify-start">
               <Image
                 src="/logo-yoshlar-parlamenti-white.png"
                 alt={tNav("logoYouthParliament")}
                 width={1492}
                 height={875}
-                className="h-[52px] w-auto"
-              />
-              <span className="h-9 w-px flex-shrink-0 bg-white/20" aria-hidden />
-              <Image
-                src="/logo-kas-white.png"
-                alt="Konrad Adenauer Stiftung"
-                width={1741}
-                height={531}
-                className="h-[30px] w-auto"
+                className="h-[72px] w-auto"
               />
             </div>
             <p className="max-w-xs font-body text-sm leading-relaxed text-white/80">
