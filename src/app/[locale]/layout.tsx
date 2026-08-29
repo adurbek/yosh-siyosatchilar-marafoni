@@ -39,6 +39,11 @@ export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
 
+// Content is DB-driven (admin-editable) and the shared Header/Footer query the
+// database, so render at request time instead of prerendering at build. This
+// keeps the build from needing a DB connection and always serves fresh content.
+export const dynamic = "force-dynamic";
+
 export async function generateMetadata(props: {
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {

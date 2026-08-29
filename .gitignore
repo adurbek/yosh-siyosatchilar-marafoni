@@ -44,3 +44,6 @@ next-env.d.ts
 prisma/*.db
 prisma/*.db-journal
 /public/uploads
+
+# local data backup (contains admin hash) — never commit
+_data-backup.json
