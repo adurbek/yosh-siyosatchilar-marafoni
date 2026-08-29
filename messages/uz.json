@@ -1,0 +1,932 @@
+{
+  "Meta": {
+    "title": "Yosh Siyosatchi Marafoni",
+    "description": "Parlamentlararo Ittifoq bilan hamkorlikda Yosh Parlament a'zolarining XII Global Konferensiyasi. Samarqand, 2026-yil 3-sentyabr."
+  },
+  "Nav": {
+    "about": "Marafon haqida",
+    "programs": "Dastur",
+    "news": "Manifist",
+    "media": "Media",
+    "faq": "FAQ",
+    "register": "Ro'yxatdan o'tish",
+    "language": "Til",
+    "aboutMenu": {
+      "conference": "Yosh parlament a'zolarining XII global konferensiyasi Parlamentlararo ittifoq bilan hamkorlikda",
+      "lowerHouse": "Oliy Majlis Qonunchilik palatasi huzuridagi Yoshlar parlamenti",
+      "parliamentYouth": "Parlament va yoshlar",
+      "infoNote": "Umumiy axborot eslatmasi",
+      "commission": "Yoshlar parlamenti tarixi"
+    },
+    "mediaMenu": {
+      "photo": "Fotomateriallar",
+      "video": "Videomateriallar"
+    },
+    "logoAlt": "Yosh siyosatchilar marafoni",
+    "logoYouthParliament": "Yoshlar parlamenti",
+    "logoYoungPolitician": "Yosh siyosatchi"
+  },
+  "Hero": {
+    "eventDate": "3 SENTYABR, 2026",
+    "title": "G'oya Ber, Fikir Bildir",
+    "description": "Kelajakni Birgalikda Yarat!",
+    "organizer": "Yosh siyosatchilar Marafoni O'zbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi huzuridagi Yoshlar parlamenti tomonidan Konrad Adenauer jamg'armasining Markaziy Osiyo bo'yicha vakolatxonasi ko'magida tashkil etiladi.",
+    "primaryCta": "Ro'yxatdan o'tish",
+    "secondaryCta": "Dastur haqida"
+  },
+  "Countdown": {
+    "days": "KUN",
+    "hours": "SOAT",
+    "minutes": "DAQIQA",
+    "seconds": "SONIYA",
+    "started": "Konferensiya boshlandi"
+  },
+  "Featured": {
+    "title": "Yosh parlament a'zolarining XII global konferensiyasi Parlamentlararo ittifoq bilan hamkorlikda",
+    "description": "Parlamentlararo Ittifoqning yoshlarning siyosatdagi ishtirokini qo'llab-quvvatlashga sodiqligi 2010-yilda Bangkokda (Tailand) bo'lib o'tgan Parlamentlararo Ittifoqning 122-Assambleyasida \"Demokratik jarayonda yoshlarning ishtiroki\" rezolyutsiyasini qabul qilishdan boshlangan.",
+    "cta": "Ro'yxatdan o'tish"
+  },
+  "Sdg": {
+    "title": "O'zbekistonda barqaror rivojlanish <accent>maqsadlari</accent>",
+    "description": "BMT va O'zbekistondagi hamkorlari barqaror rivojlanish maqsadlariga erishish uchun ishlamoqda: O'zbekiston va butun dunyodagi odamlar uchun asosiy rivojlanish muammolarini hal qilishga yo'naltirilgan 17 o'zaro bog'liq va ulkan maqsad.",
+    "cta": "Batafsil"
+  },
+  "News": {
+    "title": "Manifist",
+    "more": "Batafsil",
+    "all": "Barchasi",
+    "perPage": "sahifa",
+    "breadcrumbHome": "Bosh sahifa",
+    "other": "Boshqa yangiliklar",
+    "items": [
+      {
+        "id": "1",
+        "date": "2026-08-18",
+        "title": "Barqaror rivojlanish maqsadlari oyligiga start berildi",
+        "excerpt": "6-avgust kuni Senatda Barqaror rivojlanish maqsadlari oyligiga rasman start beruvchi \"Barqaror rivojlanish maqsadlari: milliy taraqqiyotning yangi bosqichi\" mavzusida konferensiya bo'lib o'tdi.",
+        "body": [
+          "6-avgust kuni Senatda Barqaror rivojlanish maqsadlari oyligiga rasman start beruvchi \"Barqaror rivojlanish maqsadlari: milliy taraqqiyotning yangi bosqichi\" mavzusida konferensiya bo'lib o'tdi.",
+          "Unda parlament a'zolari, vazirlik va idoralar rahbarlari, BMTning mamlakatimizdagi vakolatxonasi vakili, Parlamentlararo ittifoq kotibiyati rahbariyati hamda nodavlat notijorat tashkilotlari, ommaviy axborot vositalari vakillari va tadbirkorlar ishtirok etdi.",
+          "Tadbirni Oliy Majlis Senati Raisi, Barqaror rivojlantirish sohasidagi Milliy maqsad va vazifalarning 2030-yilgacha bo'lgan davrda amalga oshirilishini nazorat qilish bo'yicha Parlament komissiyasi hamraisi Tanzila Narbayeva ochib berdi.",
+          "Ta'kidlanganidek, Barqaror rivojlanish maqsadlari oyligi davomida respublika bo'ylab yuzlab tadbirlar tashkil etiladi. Jumladan, parlament eshituvlari, mahalliy Kengashlar sessiyalari, ilmiy-amaliy konferensiyalar, forumlar, davra suhbatlari, ochiq muloqotlar, mahallalarda uchrashuvlar, targ'ibot tadbirlari, ommaviy axborot vositalari va ijtimoiy tarmoqlarda maxsus media-loyihalar amalga oshiriladi.",
+          "BRM oyligini o'tkazishdan maqsad – aholida BRM g'oyalariga daxldorlik hissini mustahkamlash, mamlakatimizda amalga oshirilayotgan islohotlar samarasini keng namoyon etish va umumiy maqsadlar yo'lidagi sa'y-harakatlarni birlashtirishga qaratilgan.",
+          "Konferensiyada so'zga chiqqan ma'ruzachilar, xorijiy va milliy ekspertlar ta'kidlanganidek, mamlakatimiz 16 ta milliy Barqaror rivojlanish maqsadi va 126 ta vazifani qabul qilib, ularni \"O'zbekiston – 2030\" strategiyasining ustuvor yo'nalishlari bilan to'liq uyg'unlashtirgan.",
+          "Mazkur strategik yondashuv asosida amalga oshirilgan izchil islohotlar natijasida Barqaror rivojlanish maqsadlarining 70 foizidan ortig'i bo'yicha sezilarli ijobiy natijalarga erishilib, 45 foizi bo'yicha esa belgilangan ko'rsatkichlar to'liq ro'yobga chiqarilgan.",
+          "Ayniqsa, kambag'allik darajasi 2021-yildagi 17 foizdan 2025-yil yakunida 5,8 foizga qisqardi.",
+          "Maktabgacha ta'lim bilan qamrov 27,7 foizdan 78 foizga, oliy ta'lim bilan qamrov esa 8,3 foizdan 47,7 foizga yetdi.",
+          "Davlat boshqaruvida xotin-qizlar ulushi 27 foizdan 35 foizga, Qonunchilik palatasida 38 foizga, mahalliy Kengashlarda esa 32,5 foizga yetdi.",
+          "Bu natijalarning barchasi Yangi O'zbekistonda amalga oshirilayotgan islohotlar inson manfaatlarini ta'minlash va barqaror taraqqiyotni kafolatlashga xizmat qilayotganining yaqqol ifodasidir."
+        ]
+      },
+      {
+        "id": "2",
+        "date": "2026-08-18",
+        "title": "Yosh parlament a'zolarining XII global konferensiyasiga tayyorgarlik masalalari muhokama qilindi",
+        "excerpt": "28-iyul kuni Oliy Majlis Senati Raisi Tanzila Narbayeva rahbarligida Parlamentlararo ittifoqning Yosh parlament a'zolarining XII global konferensiyasini Samarqand shahrida o'tkazish bo'yicha Tashkiliy qo'mita yig'ilishi bo'lib o'tdi.",
+        "body": [
+          "28-iyul kuni Oliy Majlis Senati Raisi Tanzila Narbayeva rahbarligida Parlamentlararo ittifoqning Yosh parlament a'zolarining XII global konferensiyasini Samarqand shahrida o'tkazish bo'yicha Tashkiliy qo'mita yig'ilishi bo'lib o'tdi.",
+          "Yig'ilishda konferensiyaga tayyorgarlik ko'rish, tashkiliy-texnik masalalar hamda xalqaro hamkorlik yo'nalishlari muhokama qilindi.",
+          "Konferensiya yosh parlamentariylarni birlashtirib, ularning tajriba almashishi va barqaror rivojlanish maqsadlariga hissa qo'shishi uchun muhim maydon bo'lishi ta'kidlandi."
+        ]
+      },
+      {
+        "id": "3",
+        "date": "2026-07-24",
+        "title": "O'zbekistonda urbanizatsiya darajasi 51 foizga yetdi",
+        "excerpt": "2026-yil 18-iyun kuni O'zbekiston Respublikasini barqaror rivojlantirish sohasidagi Milliy maqsad va vazifalarning 2030-yilgacha bo'lgan davrda amalga oshirilishini nazorat qilish bo'yicha Parlament komissiyasining yig'ilishi bo'lib o'tdi.",
+        "body": [
+          "2026-yil 18-iyun kuni O'zbekiston Respublikasini barqaror rivojlantirish sohasidagi Milliy maqsad va vazifalarning 2030-yilgacha bo'lgan davrda amalga oshirilishini nazorat qilish bo'yicha Parlament komissiyasining yig'ilishi bo'lib o'tdi.",
+          "Yig'ilishda mamlakatda urbanizatsiya jarayonlari, hududlarni muvozanatli rivojlantirish va barqaror shaharsozlik masalalari ko'rib chiqildi.",
+          "Shuningdek, aholi punktlarini rivojlantirish, infratuzilma va aholi farovonligini oshirishga qaratilgan chora-tadbirlar muhokama qilindi."
+        ]
+      },
+      {
+        "id": "4",
+        "date": "2026-06-05",
+        "title": "Senat Raisi startap faoliyati bilan shug'ullanayotgan yoshlar bilan uchrashdi",
+        "excerpt": "Oliy Majlis Senati Raisi Tanzila Narbayeva startap loyihalari bilan shug'ullanayotgan faol tashabbuskor yoshlar bilan uchrashuv o'tkazdi."
+      },
+      {
+        "id": "5",
+        "date": "2026-06-05",
+        "title": "Parlamentlararo hamkorlik bo'yicha birinchi Global forum Buxoroda BRMga erishishda",
+        "excerpt": "2021-yilning 23-24-iyun kunlari Buxoro shahrida Barqaror rivojlanish maqsadlariga (BRM) erishishda global parlamentlararo hamkorlik masalalariga bag'ishlangan I Global forum bo'lib o'tdi."
+      },
+      {
+        "id": "6",
+        "date": "2026-06-05",
+        "title": "Senat Raisi Jenevada Parlamentlararo ittifoq Bosh kotibi bilan uchrashuv o'tkazdi",
+        "excerpt": "2025-yil oktyabr oyida Oliy Majlis Senati Raisi Tanzila Narbayeva Parlamentlararo Ittifoqning 151-Assambleyasi doirasida Parlamentlararo Ittifoq Bosh kotibi Martin Chungong bilan uchrashuv o'tkazdi."
+      },
+      {
+        "id": "7",
+        "date": "2026-06-05",
+        "title": "Yosh parlament a'zolari forumida barqaror taraqqiyot va global hamkorlik masalalari ko'rib chiqildi",
+        "excerpt": "Parlamentlararo ittifoqning 152-assambleyasi doirasida Yosh parlament a'zolari forumi bo'lib o'tdi. Unda Oliy Majlis Senati Raisi Tanzila Narbayeva boshchiligidagi O'zbekiston parlamenti delegatsiyasi ishtirok etdi."
+      },
+      {
+        "id": "8",
+        "date": "2026-06-05",
+        "title": "O'rmonlardan oqilona foydalanish va cho'llanishga qarshi kurashish masalalari muhokama qilindi",
+        "excerpt": "Joriy yilning 23-aprel kuni Barqaror rivojlantirish sohasidagi Milliy maqsad va vazifalarning 2030-yilgacha bo'lgan davrda amalga oshirilishini nazorat qilish bo'yicha Parlament komissiyasining navbatdagi majlisi bo'lib o'tdi."
+      },
+      {
+        "id": "9",
+        "date": "2026-06-05",
+        "title": "Toshkentda ikkinchi Global forumda BRMga erishishda parlamentlar rolini kuchaytirish masalalari muhokama qilindi",
+        "excerpt": "2023-yil 30-noyabr kuni Toshkent shahridagi \"O'zbekiston\" xalqaro anjumanlar saroyida Barqaror rivojlanish maqsadlarini amalga oshirishda parlamentlararo hamkorlik masalalari muhokama qilindi."
+      },
+      {
+        "id": "10",
+        "date": "2026-06-05",
+        "title": "Nogironligi bo'lgan shaxslarning huquqlarini himoya qilish masalalari muhokama qilindi",
+        "excerpt": "2026-yil 18-fevral kuni O'zbekiston Respublikasini barqaror rivojlantirish sohasidagi milliy maqsad va vazifalarning 2030-yilgacha bo'lgan davrda amalga oshirilishini nazorat qilish bo'yicha Parlament komissiyasining majlisi bo'lib o'tdi."
+      },
+      {
+        "id": "11",
+        "date": "2026-05-28",
+        "title": "Namuna: yangilik sarlavhasi 11",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 11."
+      },
+      {
+        "id": "12",
+        "date": "2026-05-22",
+        "title": "Namuna: yangilik sarlavhasi 12",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 12."
+      },
+      {
+        "id": "13",
+        "date": "2026-05-16",
+        "title": "Namuna: yangilik sarlavhasi 13",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 13."
+      },
+      {
+        "id": "14",
+        "date": "2026-05-10",
+        "title": "Namuna: yangilik sarlavhasi 14",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 14."
+      },
+      {
+        "id": "15",
+        "date": "2026-05-04",
+        "title": "Namuna: yangilik sarlavhasi 15",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 15."
+      },
+      {
+        "id": "16",
+        "date": "2026-04-28",
+        "title": "Namuna: yangilik sarlavhasi 16",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 16."
+      },
+      {
+        "id": "17",
+        "date": "2026-04-22",
+        "title": "Namuna: yangilik sarlavhasi 17",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 17."
+      },
+      {
+        "id": "18",
+        "date": "2026-04-16",
+        "title": "Namuna: yangilik sarlavhasi 18",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 18."
+      },
+      {
+        "id": "19",
+        "date": "2026-04-10",
+        "title": "Namuna: yangilik sarlavhasi 19",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 19."
+      },
+      {
+        "id": "20",
+        "date": "2026-04-04",
+        "title": "Namuna: yangilik sarlavhasi 20",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 20."
+      },
+      {
+        "id": "21",
+        "date": "2026-03-29",
+        "title": "Namuna: yangilik sarlavhasi 21",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 21."
+      },
+      {
+        "id": "22",
+        "date": "2026-03-23",
+        "title": "Namuna: yangilik sarlavhasi 22",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 22."
+      },
+      {
+        "id": "23",
+        "date": "2026-03-17",
+        "title": "Namuna: yangilik sarlavhasi 23",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 23."
+      },
+      {
+        "id": "24",
+        "date": "2026-03-11",
+        "title": "Namuna: yangilik sarlavhasi 24",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 24."
+      },
+      {
+        "id": "25",
+        "date": "2026-03-05",
+        "title": "Namuna: yangilik sarlavhasi 25",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 25."
+      },
+      {
+        "id": "26",
+        "date": "2026-02-27",
+        "title": "Namuna: yangilik sarlavhasi 26",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 26."
+      },
+      {
+        "id": "27",
+        "date": "2026-02-21",
+        "title": "Namuna: yangilik sarlavhasi 27",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 27."
+      },
+      {
+        "id": "28",
+        "date": "2026-02-15",
+        "title": "Namuna: yangilik sarlavhasi 28",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 28."
+      },
+      {
+        "id": "29",
+        "date": "2026-02-09",
+        "title": "Namuna: yangilik sarlavhasi 29",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 29."
+      },
+      {
+        "id": "30",
+        "date": "2026-02-03",
+        "title": "Namuna: yangilik sarlavhasi 30",
+        "excerpt": "Bu — namunaviy (placeholder) yangilik matni. Uni haqiqiy sarlavha, sana va qisqacha tavsif bilan almashtiring. Tartib raqami: 30."
+      }
+    ]
+  },
+  "Media": {
+    "title": "Media kutubxona",
+    "more": "Batafsil",
+    "breadcrumbHome": "Bosh sahifa",
+    "photoTitle": "Fotomateriallar",
+    "videoTitle": "Videomateriallar",
+    "eventTitle": "Yosh parlament a'zolarining XII global konferensiyasi Parlamentlararo ittifoq bilan hamkorlikda",
+    "videoEmpty": "Videomateriallar tez orada qo'shiladi.",
+    "albums": [
+      {
+        "id": "a1",
+        "day": "26",
+        "month": "Mart",
+        "date": "2026-03-26"
+      },
+      {
+        "id": "a2",
+        "day": "28",
+        "month": "Mart",
+        "date": "2026-03-28"
+      }
+    ],
+    "videoAlbums": [
+      {
+        "id": "v1",
+        "day": "20",
+        "month": "Aprel",
+        "date": "2026-04-20"
+      }
+    ]
+  },
+  "Faq": {
+    "title": "Ko'p beriladigan savollar",
+    "breadcrumbHome": "Bosh sahifa",
+    "items": [
+      {
+        "id": "1",
+        "question": "Yosh parlament a'zolarining global konferensiyasi nima?",
+        "answer": "Yosh parlament a'zolarining global konferensiyasi Parlamentlararo ittifoq tomonidan tashkil etiladigan xalqaro maydon bo'lib, unda turli mamlakatlardan kelgan yosh parlament a'zolari yoshlar siyosatini rivojlantirishning dolzarb masalalarini muhokama qiladilar, tajriba almashadilar va hamkorlikni rivojlantiradilar."
+      },
+      {
+        "id": "2",
+        "question": "Konferensiyada kimlar ishtirok etishi mumkin?",
+        "answer": "Konferensiyada Parlamentlararo ittifoq a'zosi bo'lgan mamlakatlarning yosh parlament a'zolari, yoshlar tashkilotlari vakillari va taklif etilgan ekspertlar ishtirok etishi mumkin."
+      },
+      {
+        "id": "3",
+        "question": "Konferensiyaning maqsadi nima?",
+        "answer": "Konferensiyaning asosiy maqsadi yoshlarning siyosiy jarayonlardagi ishtirokini kuchaytirish, tajriba almashish va barqaror rivojlanish maqsadlariga erishishda yoshlarning rolini oshirishdan iborat."
+      }
+    ]
+  },
+  "Conference": {
+    "breadcrumbHome": "Bosh sahifa",
+    "title": "Yosh parlament a'zolarining XII global konferensiyasi Parlamentlararo ittifoq bilan hamkorlikda",
+    "aboutTitle": "Biz haqimizda",
+    "p1": "Parlamentlararo Ittifoqning yoshlarning siyosatdagi ishtirokini qo'llab-quvvatlashga sodiqligi 2010-yilda Bangkokda (Tailand) bo'lib o'tgan Parlamentlararo Ittifoqning 122-Assambleyasida \"Demokratik jarayonda yoshlarning ishtiroki\" rezolyutsiyasini qabul qilishdan boshlangan. Ushbu rezolyutsiya yoshlarning siyosiy hayotdagi ishtirokini kengaytirishga chaqirdi, shu munosabat bilan Parlamentlararo Ittifoq a'zolari bo'lgan parlamentlar Ittifoqdan bu jarayonda yordam va uslubiy qo'llanma berishni so'radi.",
+    "p2": "2013-yilda Parlamentlararo Ittifoq yoshlarning parlamentlardagi va Parlamentlararo Ittifoq faoliyatidagi ishtirokini ham miqdoriy, ham sifat jihatidan kengaytirishga ko'maklashadigan rasmiy va doimiy faoliyat yurituvchi organ - Yosh parlamentariylar forumini ta'sis etdi.",
+    "p3": "Parlamentlararo Ittifoq to'plangan tajriba asosida, yoshlar kun tartibini muhokama qilish, yosh parlament a'zolarining salohiyatini oshirish, yoshlarning siyosatdagi ishtirokini rag'batlantirish va yoshlar yetakchiligining ko'rinishini oshirish uchun platforma bo'lib xizmat qiladigan yosh parlament a'zolarining yillik Global konferensiyasini ta'sis etdi. Parlamentlararo Ittifoq yosh a'zolarining global konferensiyalari butun dunyodagi yosh parlament a'zolarini umumiy qiziqish uyg'otadigan mavzularni muhokama qilish uchun birlashtiradi.",
+    "listIntro": "Bugungi kunga qadar o'n bitta konferensiya o'tkazildi:",
+    "conferences": [
+      "Jeneva, 2014-yil oktyabr;",
+      "Tokio, 2015-yil may;",
+      "Lusaka 2016-yil mart;",
+      "Ottava, 2017 yil noyabr;",
+      "Boku 2018 yil dekabr;",
+      "Asunsion 2019 yil sentyabr;",
+      "Virtual formatda 2021-yil aprel;",
+      "Sharm al-Shayx, 2022-yil iyun;",
+      "Xanoy, 2023 yil sentyabr;",
+      "Yerevan 2024-yil sentyabr;",
+      "Lima 2025-yil sentyabr."
+    ],
+    "p4": "Konferensiyalar formati innovatsion va interaktiv yondashuvlarni joriy etish, salohiyatni rivojlantirish va yosh parlament a'zolari o'rtasida, shu jumladan guruhlarda ishlash, o'quv sessiyalari va tarmoq tadbirlari orqali professional aloqalarni o'rnatish uchun imkoniyatlar yaratishga qaratilgan.",
+    "goalTitle": "Tadbirning maqsadi",
+    "goalText": "Yoshlarning siyosiy jarayonlardagi faol ishtirokini kengaytirish, ularning parlament faoliyati va qonun ijodkorligidagi rolini kuchaytirish, shuningdek yosh parlament a'zolari o'rtasida tajriba almashish, salohiyatni rivojlantirish va xalqaro hamkorlikni mustahkamlash uchun samarali platforma yaratishdan iborat.",
+    "speakersTitle": "Spikerlar",
+    "speakersEmpty": "Ma'lumot to'ldirilmoqda",
+    "organizersTitle": "Tashkilotchilar",
+    "organizerName": "O'zbekiston Respublikasi Oliy Majlisi Senati",
+    "contactsTitle": "Tashkiliy qo'mita aloqalari",
+    "emailLabel": "Elektron pochta",
+    "email": "events@senat.uz",
+    "phoneLabel": "Telefon",
+    "phone": "+99878 238-28-37",
+    "addressLabel": "Manzil",
+    "address": "100078, Toshkent shahri, Islam Karimov ko'chasi, 9-uy",
+    "linkLowerHouse": "Oliy Majlis Qonunchilik palatasi huzuridagi Yoshlar parlamenti",
+    "linkParliamentYouth": "Parlament va yoshlar",
+    "linkInfoNote": "Umumiy axborot eslatmasi",
+    "linkCommission": "Yoshlar parlamenti tarixi"
+  },
+  "LowerHouse": {
+    "breadcrumbHome": "Bosh sahifa",
+    "breadcrumbAbout": "Tadbir haqida",
+    "title": "Oliy Majlis Qonunchilik palatasi huzuridagi Yoshlar parlamenti",
+    "paragraphs": [
+      "2024-yil 27-oktyabrda Qonunchilik palatasiga saylov mamlakat tarixida ilk bor aralash saylov tizimi asosida o'tkazildi. Bunday sharoitda Yoshlar parlamentini shakllantirish va uning faoliyati tartibini takomillashtirish zarurati yuzaga keldi.",
+      "2025-yil fevral oyida Qonunchilik palatasi Kengashining qarori bilan Yoshlar parlamenti to'g'risidagi nizom va uning Reglamenti tasdiqlandi. Siyosiy partiyalarga bir oy muddatda shakllantirilayotgan Yoshlar parlamenti a'zoligiga nomzodlar taqdim etish tavsiya etildi. Qonunchilik palatasi Devoniga Yoshlar parlamenti va uning a'zolari samarali faoliyat yuritishi uchun zarur shart-sharoitlar yaratish, majlis va tadbirlarda ularning ishtirokini ta'minlash, xizmat guvohnomalari va ko'krak nishonlari berilishini tashkil etish vazifasi yuklatildi. Avval qabul qilingan 2020 va 2022 yilgi qarorlar o'z kuchini yo'qotgan deb topildi.",
+      "Tasdiqlangan Nizomga ko'ra, Yoshlar parlamenti yuridik shaxs maqomiga ega bo'lmagan, Qonunchilik palatasiga hisobdor maslahat organi hisoblanadi. Uning tarkibi 18 yoshdan 30 yoshgacha bo'lgan 150 a'zodan iborat bo'lib, aralash saylov tizimini hisobga olgan holda siyosiy partiyalar tomonidan tuziladi: bir mandatli okruglardan 75 nafar nomzod va bitta okrugdan saylangan deputatlar soniga mutanosib ravishda 75 nafar. Nomzodlar yetakchilik qobiliyatiga, yuksak fuqarolik pozitsiyasiga, davlat va jamiyat qurilishi sohasida bilimlarga ega bo'lishi kerak. Bir qator toifadagi shaxslar, shu jumladan deputatlar, harbiy xizmatchilar, huquqni muhofaza qiluvchi organlar xodimlari va sudlanganligi olib tashlanmagan shaxslar tarkibiga tavsiya etilishi mumkin emas.",
+      "Yoshlar parlamentiga soha komissiyasi bilan kelishilgan holda davlat organlaridan zarur materiallarni so'rash, palata va uning organlari majlislarida rahbariyat roziligi bilan ishtirok etish, kutubxona va elektron resurslardan foydalanish, ekspert va mutaxassislardan iborat ishchi guruhlar tuzish huquqi berildi.",
+      "Yoshlar parlamentiga tegishli komissiya bilan kelishilgan holda davlat organlaridan zarur materiallarni so'rash, rahbariyat roziligi bilan palata va uning organlari majlislarida ishtirok etish, kutubxona va elektron resurslardan foydalanish, ekspert va mutaxassislardan iborat ishchi guruhlar tuzish huquqi berilgan.",
+      "Faoliyatning tashkiliy shakli yiliga kamida ikki marta ochiqlik va oshkoralik prinsiplari asosida o'tkaziladigan yig'ilishlardir. A'zolar o'z tarkibidan rais va uning olti nafar o'rinbosarini saylaydi, Yoshlar parlamenti kengashini va huquqiy savodxonlik va vatanparvarlik, bandlik va sog'liqni saqlash, innovatsiyalar va AKT, tadbirkorlik va sanoat, fan va ta'lim, ekologiya, xalqaro hamkorlik, fuqarolik jamiyatini rivojlantirish va volontyorlik masalalarini qamrab oluvchi sakkizta ixtisoslashgan qo'mitalarni tuzadi.",
+      "Partiyaviylik bo'yicha siyosiy guruhlar tuzish, kotib va matbuot kotibini saylash ko'zda tutilgan. Faoliyatni moliyalashtirish Qonunchilik palatasiga ajratiladigan Davlat budjeti mablag'lari hisobidan amalga oshiriladi.",
+      "Yoshlar parlamenti a'zolari jamoatchilik asosida faoliyat yuritadi, guvohnoma va ko'krak nishoni oladi, takliflar kiritish, muhokamalar va ovoz berishda ishtirok etish huquqiga ega, shuningdek, ishda faol ishtirok etishi, qonun hujjatlari va nizom talablariga rioya etishi shart. Vakolatlar bir qator asoslarga ko'ra, jumladan, shaxsiy ariza, nomuvofiq lavozimga tayinlash, ayblov hukmining kuchga kirishi, fuqarolikni yo'qotish yoki siyosiy partiya tomonidan chaqirib olinishi tufayli muddatidan oldin tugatilishi mumkin.",
+      "Reglament majlislarni, birinchi majlisni o'tkazish, yashirin ovoz berish yo'li bilan Rais va uning o'rinbosarlarini saylash, qo'mitalarni tuzish va ichki ishlarni tashkil etish tartibini belgilaydi. Birinchi chaqiriq tegishli komissiya tashabbusi bilan tarkib shakllantirilgandan keyin bir oy muddatda o'tkaziladi.",
+      "Shunday qilib, yangilangan me'yoriy-huquqiy baza Qonunchilik palatasi huzuridagi Yoshlar parlamentini institutsional jihatdan mustahkamlash, yoshlarning qonun ijodkorligidagi ishtirokini kengaytirish va uning faoliyatini mamlakatlarning yangi saylov modeliga moslashtirishga qaratilgan."
+    ]
+  },
+  "Senate": {
+    "breadcrumbHome": "Bosh sahifa",
+    "breadcrumbAbout": "Tadbir haqida",
+    "title": "Senat huzuridagi Yoshlar parlamenti",
+    "paragraphs": [
+      "O'zbekistonda yoshlarga davlat taraqqiyotining strategik resursi sifatida qaraladi. Mamlakat aholisining katta qismini yoshlar tashkil etadi va aynan shuning uchun davlat siyosati ularning har tomonlama rivojlanishi, huquqiy madaniyati, ijtimoiy faolligi, davlat va jamiyat boshqaruvi jarayonlariga jalb etilishi uchun shart-sharoitlar yaratishga qaratilgan. Shu maqsadda O'zbekiston Respublikasi Oliy Majlisi Senati huzurida qonun ijodkorligi faoliyatida, parlament nazorati va mamlakat ijtimoiy-siyosiy hayotida yoshlarning amaliy ishtirokini ta'minlaydigan maslahat organi - Yoshlar parlamenti faoliyat ko'rsatmoqda.",
+      "Yoshlar parlamenti o'z faoliyatini O'zbekiston Respublikasi Konstitutsiyasi, amaldagi qonun hujjatlari, Senat qarorlari va tasdiqlangan Nizom asosida amalga oshiradi. U yuridik shaxs hisoblanmaydi va Senat huzuridagi maslahat tuzilmasi sifatida jamoatchilik asosida faoliyat yuritadi. Yoshlar parlamentining vakolat muddati besh yil. Uning asosiy maqsadi yoshlarni qonun ijodkorligi jarayoniga jalb etish, parlament nazorati mexanizmlari bilan yaqindan tanishtirish, ularda yetakchilik, notiqlik va qaror qabul qilish ko'nikmalarini shakllantirish, yoshlarning dolzarb muammolarini bevosita Senatga yetkazishdan iborat.",
+      "Yoshlar parlamenti tarkibi 18 yoshdan 30 yoshgacha bo'lgan 100 kishidan shakllantiriladi. Unga xalq deputatlari hududiy Kengashlariga saylangan yosh deputatlar (har bir hududdan 6 nafardan), Yoshlar ishlari agentligi tomonidan tavsiya etilgan vakillar, shuningdek, Senatning tegishli qo'mitasi tomonidan tavsiya etilgan nomzodlar kiritilgan. Tarkibni shakllantirishda tenglik tamoyillari, faol fuqarolik pozitsiyasi, yetakchilik salohiyati, tashabbuskorlik, huquqiy va siyosiy madaniyatning yuqori darajasi hisobga olinadi.",
+      "Yoshlar parlamenti faoliyatining asosiy yo'nalishlari yoshlarda vatanparvarlik va faol fuqarolik pozitsiyasini shakllantirish, huquqbuzarlik va jinoyatchilikning oldini olish, bolalarga nisbatan zo'ravonlikning oldini olish, ekologik madaniyatni yuksaltirish, hududlarda yoshlarning ijtimoiy-iqtisodiy muammolarini o'rganish, qonunchilikni takomillashtirish bo'yicha takliflar tayyorlash, vazirlik va idoralar bilan strategik hamkorlikni yo'lga qo'yish, boshqa mamlakatlar yoshlar parlamentlari bilan xalqaro hamkorlikni rivojlantirish, ommaviy axborot vositalari va ijtimoiy tarmoqlar orqali jamoatchilik muhokamalarida faol ishtirok etish bilan bog'liq keng ko'lamli masalalarni qamrab oladi.",
+      "Yoshlar parlamenti a'zolari qonun loyihalarini muhokama qilishda ishtirok etadi, hududlarda yoshlar bilan uchrashuvlar o'tkazadi, muammoli masalalar bo'yicha tahliliy materiallar tayyorlaydi, davlat dasturlariga takliflar kiritadi, startaplar va innovatsion g'oyalarni ilgari suradi, ta'lim, bandlik, tadbirkorlik, ekologiya va sog'liqni saqlash sohalaridagi masalalarni hal etishga ko'maklashadi. Mehribonlik uylari bitiruvchilarini qo'llab-quvvatlash, xorijda ta'lim olayotgan va ishlayotgan O'zbekiston yoshlari bilan ishlashga alohida e'tibor qaratilmoqda.",
+      "Yoshlar parlamenti tuzilmasida bandlik va iqtisodiyot, yoshlar huquqlari va qonunchilik, vatanparvarlik tarbiyasi, xalqaro munosabatlar va turizm, agrar soha va ekologiya, fan, innovatsiyalar va sog'liqni saqlash, shuningdek, madaniyat, sport va gender tenglik masalalarini qamrab olgan yettita ixtisoslashgan komissiya faoliyat yuritmoqda. Komissiyalar orqali a'zolar faoliyati muvofiqlashtirilib, har bir yo'nalishdagi vazifalarni hal etishga tizimli yondashiladi.",
+      "Yoshlar parlamentining har bir a'zosi \"ustoz-shogird\" tizimi doirasida senatorga biriktiriladi, shuningdek, muayyan vazirlik yoki idora bilan hamkorlik qiladi. Bu yoshlarga davlat boshqaruvi mexanizmlarini amalda o'rganish, Senat qo'mitalari ishida ishtirok etish, parlament faoliyatida o'ziga xos amaliy tajriba orttirish imkonini bermoqda.",
+      "Xalqaro yo'nalishga alohida e'tibor qaratilmoqda. Yoshlar parlamenti xorijiy davlatlar yoshlar parlamentlari bilan hamkorlikni rivojlantirmoqda, xalqaro forumlarda ishtirok etmoqda, yoshlarga oid davlat siyosatining \"o'zbek modeli\"ni ilgari surmoqda, xorijdagi vatandoshlar bilan aloqani qo'llab-quvvatlamoqda.",
+      "Yoshlar parlamenti faoliyati ochiqlik va shaffoflik tamoyillari asosiga qurilmoqda. Yig'ilishlar yiliga kamida uch marta o'tkaziladi, uning faoliyati ommaviy axborot vositalari va ijtimoiy tarmoqlarda keng yoritib boriladi. Har yili 30 iyun - O'zbekiston yoshlari kuni munosabati bilan Yoshlar parlamenti amalga oshirilgan loyihalar va erishilgan natijalar to'g'risida jamoatchilikka hisobot taqdim etadi.",
+      "Shunday qilib, O'zbekiston Respublikasi Oliy Majlisi Senati huzuridagi Yoshlar parlamenti yoshlar va mamlakatning oliy qonun chiqaruvchi organi o'rtasidagi to'g'ridan-to'g'ri muloqotning samarali platformasi, bo'lajak yetakchilarni shakllantirishning muhim vositasi va yoshlarni davlat qarorlarini qabul qilish jarayonlariga jalb qilish mexanizmi hisoblanadi."
+    ]
+  },
+  "ParliamentYouth": {
+    "breadcrumbHome": "Bosh sahifa",
+    "breadcrumbAbout": "Tadbir haqida",
+    "title": "Parlament va yoshlar",
+    "paragraphs": [
+      "O'zbekistonda yoshlar mamlakat taraqqiyotining strategik resursi hisoblanadi. Bugungi kunda 30 yoshgacha bo'lgan 19 milliondan ortiq kishi aholining 55 foizidan ortig'ini tashkil etadi va davlat ularning ta'lim olishi, kasbiy rivojlanishi, tadbirkorlik faolligi, ijodiy tashabbuskorligi va ijtimoiy hayotda ishtirok etishi uchun tegishli shart-sharoitlar yaratmoqda. Yoshlar sohasidagi davlat siyosati yoshlarning huquqlarini himoya qilish, tashabbuslarini qo'llab-quvvatlash, ularning o'sishi uchun xavfsiz va qulay muhitni shakllantirish, shuningdek, ularni boshqaruv va qonun ijodkorligiga jalb etishga qaratilgan.",
+      "So'nggi olti yilda mamlakatimizda yoshlarning huquq va imkoniyatlarini mustahkamlashga qaratilgan 106 ta qonun va qonunosti hujjati, jumladan, 9 ta qonun, Prezidentning 10 ta farmoni, 25 ta qarori, Vazirlar Mahkamasining 62 ta qarori qabul qilindi. Asosiy qonun \"Yoshlarga oid davlat siyosati to'g'risida\"gi (2016-yil) bo'lib, u keyingi barcha tashabbuslar va dasturlar uchun asos bo'ldi. 2023-2025 yillarda Senat tomonidan bolalarni himoya qilish, volontyorlik faoliyati va zo'ravonlikning oldini olishga oid 4 ta eng muhim qonun, jumladan, \"Volontyorlik faoliyati to'g'risida\"gi, \"Bolalarni zo'ravonlikdan himoya qilish to'g'risida\"gi va \"Bolalar ombudsmani to'g'risida\"gi qonunlar qabul qilindi. Ushbu qonunlar yoshlar va bolalarning huquqlari, erkinliklari va imkoniyatlarini himoya qilish uchun huquqiy asos yaratadi.",
+      "Yoshlarning ta'lim olishi va kasbiy rivojlanishi davlatning ustuvor vazifalaridan biridir. So'nggi yillarda oliy ta'lim bilan qamrov 9 foizdan 38 foizga yetdi, 151 mingdan ziyod talabaga 1,7 trillion so'm imtiyozli ta'lim krediti berildi. \"Kelajak kasblari\" va \"Ibrat farzandlari\" loyihalari doirasida 25 mingdan ziyod yoshlar zamonaviy kasblar va xorijiy tillarni, \"Ustoz AI\" onlayn loyihasi orqali esa 250 mingga yaqin yoshlar raqamli va innovatsion yo'nalishlarda ko'nikmalarga ega bo'ldi. Kitobxonlik madaniyatini rivojlantirish bo'yicha \"Yosh kitobxon\" va \"Mutolaa\" loyihalari doirasida 4 milliondan ortiq yoshlar qamrab olinib, minglab audio va elektron kitoblar erkin foydalanishga topshirildi.",
+      "Xavfsizlik, yoshlarni ijtimoiy qo'llab-quvvatlash masalalari ham davlatimiz e'tiborida. \"Yoshlar balansi\" tizimi va \"Raqamli mahalla\" onlayn monitoringi aholining ijtimoiy himoyaga muhtoj qatlamlarini qo'llab-quvvatlash, huquqbuzarliklarning oldini olish va tashabbuslarni qo'llab-quvvatlashni ta'minlaydi. Natijada 2 ming 474 ta mahalla yoshlar jinoyatidan xoli hududga aylandi. 369 mingdan ziyod yoshlarga individual yordam va maslahatlar, 170 mingga yaqin yoshlarga esa joylardagi tashabbuslar orqali moliyaviy va ijtimoiy ko'mak ko'rsatildi.",
+      "Parlament yoshlar siyosatini amalga oshirishda muhim rol o'ynaydi. Senat va Qonunchilik palatasida qonunlar muhokamasida ishtirok etadigan, tashabbuslar bilan chiqadigan va parlament ishida tajriba orttiradigan Yoshlar parlamentlari faoliyat ko'rsatmoqda. Senat dasturlar va tashabbuslarning bajarilishini nazorat qiladi, ularning samaradorligini baholaydi, yoshlarni ijtimoiy, ta'lim va iqtisodiy masalalarni muhokama qilishga jalb qiladi. Bundan tashqari, Yoshlar parlamentining har bir a'zosiga murabbiy-senator biriktirilgan bo'lib, bu tajriba almashish va qonun ijodkorligida faol ishtirok etishni ta'minlaydi.",
+      "Yoshlarga oid davlat siyosati nafaqat qonun va dasturlar, balki jonli muloqot hamdir. Hokimiyat idoralari bilan muntazam uchrashuvlar o'tkazilib, yoshlarning tashabbus va takliflari muhokama qilinmoqda, joylarda g'oyalarni amalga oshirish uchun imkoniyatlar yaratilmoqda. Dasturlar va loyihalar nafaqat ta'lim va ishga joylashish, balki ijodkorlik, sport, volontyorlik, raqamli ko'nikmalar, xorijiy tillar va madaniy rivojlanishni ham qamrab oladi. Har bir yoshga o'zini ko'rsatish, mahallasi, tumani va yurti rivojiga hissa qo'shish imkoniyati berilmoqda.",
+      "Bugungi kunda O'zbekiston yoshlari ta'lim olish, kasbiy o'sish, ijodiy va ijtimoiy faollik uchun noyob imkoniyatlarga ega bo'lmoqda. Davlat tomonidan qo'llab-quvvatlash, parlament nazorati va maqsadli tashabbuslar har bir yosh o'z huquqlarini amalga oshirishi, qobiliyatlarini rivojlantirishi, jamiyat hayotida ishtirok etishi va mamlakat kelajagining faol yaratuvchisi bo'lishi uchun muhit yaratadi."
+    ]
+  },
+  "InfoNote": {
+    "breadcrumbHome": "Bosh sahifa",
+    "breadcrumbAbout": "Tadbir haqida",
+    "title": "Umumiy axborot eslatmasi",
+    "leadTitle": "Umumiy axborot eslatmasi",
+    "sectionsA": [
+      {
+        "heading": "FON (Tarixiy ma'lumot)",
+        "paragraphs": [
+          "2010-yilda Bangkokda (Tailand) bo'lib o'tgan Mintaqalararo Parlamentar Ittifoqning (MPI) 122-sessiyasida MPIga a'zo parlamentlar «Demokratik jarayonda yoshlar ishtiroki» nomli muhim rezolyutsiyani qabul qildilar. Ushbu rezolyutsiyada ta'kidlanganidek, mazmunli demokratiyaga erishish mahalliy, milliy, mintaqaviy va xalqaro darajalarda yoshlar va yoshlar tashkilotlarining to'laqonli va faol ishtirokini talab etadi.",
+          "Ana shu ruhda 2013-yilda MPI Yosh parlamentarlar forumini tashkil etdi. Bu — parlamentlarda va MPIning o'zida yoshlar ishtirokini miqdoriy va sifat jihatidan oshirishga qaratilgan rasmiy va doimiy organ.",
+          "2014-yilda MPI har yili o'tkaziladigan Global konferensiyalar mexanizmini yaratdi. U quyidagilarga hissa qo'shishni maqsad qilgan: (i) yosh parlamentarlarning rolini va yoshlarning parlament faoliyatidagi ishtirokini kuchaytirish; (ii) yoshlar nuqtai nazaridan MPI faoliyati va kun tartibiga tavsiyalar ishlab chiqish; (iii) tarmoq aloqalari, hamjihatlik va salohiyatni oshirish, yoshlarning umumiy masalalarga yondashuvlarini kengaytirish.",
+          "Hozirgacha turli mavzularda o'n birta Global konferensiya o'tkazildi, jumladan: siyosat va demokratiyada yoshlar ishtiroki (Shveytsariya, 2014); demokratiya, tinchlik va farovonlik (Yaponiya, 2015); Barqaror rivojlanish maqsadlari (BRM) (Zambiya, 2016); iqtisodiy, ijtimoiy va siyosiy inklyuziya (Kanada, 2017); barqarorlikni rag'batlantirish va kelajak avlodlar manfaatlarini himoya qilish (Ozarbayjon, 2018); BRMga erishish va ijtimoiy himoya orqali yoshlarni kuchaytirish (Paragvay, 2019); COVID-19dan keyingi yoshlarga yo'naltirilgan yondashuv (2021, onlayn format); iqlim o'zgarishiga qarshi kurash (Misr, 2022); raqamli transformatsiya va innovatsiyalar (Vetnam, 2023); har qanday sharoitda ta'lim va bandlikni saqlab qolish (Armaniston, 2024); gender tengligi uchun avlodlarni birlashtirish (Peru, 2025)."
+        ]
+      },
+      {
+        "heading": "SANA VA O'TKAZISH JOYI",
+        "paragraphs": [
+          "MPIning 12-Global yosh parlamentarlar konferensiyasi O'zbekistonning Samarqand shahrida «Notinch zamonda barcha uchun inson huquqlari, adolat va qadr-qimmatni tiklash» mavzusida bo'lib o'tadi. Konferensiya 2026-yil 4–6 sentyabr kunlari bo'lib o'tadi. Konferensiyaning rasmiy ishchi sessiyalari 4–5 sentyabr 2026-yilda o'tkaziladi. Konferensiyaning uchinchi kuni (6 sentyabr 2026-yil) Qabul qiluvchi Parlament tomonidan tashkil etiladigan madaniy dasturga bag'ishlanadi (qo'shimcha ma'lumotlar alohida taqdim etiladi)."
+        ]
+      },
+      {
+        "heading": "ISHTIROK",
+        "paragraphs": [
+          "MPIga a'zo barcha parlamentlarga Konferensiyada ishtirok etish uchun 40 yoshgacha bo'lgan yosh deputatlar delegatsiyasini yuborish taklif etiladi. Qoidaga ko'ra, bir palatali parlament delegatsiyasidagi deputatlar soni to'rttadan oshmasligi kerak. Ikki palatali parlamentlar sakkiztagacha deputatni ro'yxatdan o'tkazishi mumkin. Parlamentlarga gender jihatdan muvozanatli delegatsiyalarni yuborish tavsiya etiladi, shu jumladan eng ko'pi bilan ikkita parlament xodimi.",
+          "Yoshlar masalalari bilan shug'ullanadigan MPIning assotsiatsiyalangan a'zolari va kuzatuvchilari hamda tanlangan xalqaro va mintaqaviy yoshlar uyushmalari, tashkilotlari va parlamentlari ham Konferensiyada ishtirok etishga taklif qilinadi."
+        ]
+      },
+      {
+        "heading": "ISH JARAYONINI TASHKIL ETISH",
+        "paragraphs": [
+          "MPIning odatiy amaliyotiga muvofiq, barcha delegatlar teng huquqli nutq so'zlash huquqiga ega bo'ladilar. Muhokamalar iloji boricha jonli, dinamik va hurmatli bo'lishi uchun quyidagi qoidalar qo'llaniladi:"
+        ],
+        "bullets": [
+          "Har qanday kun tartibi bo'yicha oldindan spikerlar ro'yxati tuzilmaydi. Konferensiya sessiyalari raislari muayyan muhokama segmenti boshida so'z so'ragan ishtirokchilar orasidan spikerlar ro'yxatini tuzadilar. Sessiya raislari tanlangan spikerlar orasida gender va mintaqaviy xilma-xillikni ta'minlashga harakat qiladilar.",
+          "Ishtirokchilardan oldindan tayyorlangan nutqlarni o'qimasdan, jonli va tabiiy muhokamada ishtirok etishlari so'raladi. Sessiya raislari vaziyatga qarab qaror qabul qilish huquqiga ega bo'lib, og'zaki chiqishlar uch daqiqadan oshmasligi mumkin. Ishtirokchilar har bir masala bo'yicha bir necha marta so'zga chiqishlari mumkin, ayniqsa boshqa chiqishlarga javob berish uchun.",
+          "Ishtirokchilar tuhmat qiluvchi, murosasiz, seksist, irqchil, ksenofobik yoki nafrat va zo'ravonlikni qo'zg'atuvchi haqoratli til ishlatmasliklari shart. Sessiya raislari mavzudan chetga chiqqan yoki muhokamani buzuvchi haqoratli, kamsituvchi yoki nafratga yo'g'irilgan til ishlatgan spikerni tartibga chaqirish huquqiga ega. Agar buzilish davom etsa yoki yangi huquqbuzarlik sodir etilsa, spiker nutqini davom ettirish huquqidan mahrum qilinishi mumkin. Rais spikerning mikrofonini o'chirib qo'yishi mumkin."
+        ]
+      },
+      {
+        "heading": "TILLAR VA TARJIMA",
+        "paragraphs": [
+          "Ingliz va fransuz tillari MPIning rasmiy ishchi tillari hisoblanadi. Shunga qaramay, arab, ingliz, fransuz va ispan tillariga va bu tillardan sinxron tarjima mavjud bo'ladi.",
+          "O'zbekiston Respublikasi Oliy Majlisi Senati konferensiya o'tkaziladigan joyda sinxron tarjima tizimini ta'minlaydi. O'z tarjimonlar jamoasini olib kelmoqchi bo'lgan milliy delegatsiyalar uchun faqat olti ta qo'shimcha tarjima kabinalari mavjud bo'ladi. Ular \"kim birinchi kelgan — o'sha xizmatdan foydalanadi\" tamoyili asosida taqdim etiladi. Qo'shimcha sinxron tarjima kabinasini so'rash uchun 1-ilovadagi formani to'ldirib, Qabul qiluvchi Parlamentga elektron pochta orqali yuborish lozim. Kabina ijarasi va tarjimonlar xizmat haqini delegatsiyalar o'zlari to'laydilar.",
+          "Konferensiya sessiyalaridan tashqari boshqa tadbir va faoliyatlar uchun ishchi tillar ingliz yoki fransuz tillari bo'ladi."
+        ]
+      },
+      {
+        "heading": "RO'YXATDAN O'TKAZISH",
+        "paragraphs": [
+          "Konferensiyaga taklif etilgan parlamentlar va tashkilotlardan ishtirokchilarni 2026-yil 28-avgustgacha onlayn ro'yxatdan o'tkazishlari so'raladi.",
+          "Diqqatga sazovor: ushbu muddatdan keyin ro'yxatdan o'tganlar kafolatlanmaydi.",
+          "Qabul qiluvchi Parlament tomonidan tashkil etiladigan kelish va jo'nab ketish xizmatlarini hamda boshqa logistika tadbirlarini osonlashtirish maqsadida delegatsiyalardan onlayn sayohat formasini to'ldirishlari so'raladi. \"Select event\" savolida \"XII Global Conference of Young Parliamentarians in cooperation with the Inter-Parliamentary Union\"ni tanlashni unutmang.",
+          "Har qanday savollar bo'yicha MPI va Qabul qiluvchi Parlamentning aloqa ma'lumotlari quyida keltirilgan:",
+          "Mintaqalararo Parlamentar Ittifoq (Inter-Parliamentary Union)"
+        ]
+      }
+    ],
+    "contacts": {
+      "ipu": [
+        "Mintaqalararo Parlamentar Ittifoq",
+        "5, Chemin du Pommier",
+        "1218 Grand Saconnex",
+        "Switzerland",
+        "Email: postbox@ipu.org",
+        "Tel.: +41 22 919 41 50"
+      ],
+      "senate": [
+        "O'zbekiston Respublikasi Oliy Majlisi Senati Sekretariati",
+        "Islom Karimov ko'chasi, 9",
+        "Toshkent, 100078",
+        "Email: events@senat.uz",
+        "Tel.: (+99878) 238-28-37",
+        "WhatsApp va Telegram: (+99897) 776-06-81"
+      ]
+    },
+    "sectionsB": [
+      {
+        "heading": "VIZALAR",
+        "paragraphs": [
+          "O'zbekistonga kirish uchun barcha konferensiya delegatlarida kelish sanasidan boshlab kamida uch oy muddatga amal qiladigan pasport bo'lishi kerak.",
+          "O'zbekiston Respublikasi qonunchiligiga ko'ra, chet el fuqarolari O'zbekistonga kirish va uning hududidan tranzit o'tish uchun faqat kirish vizasiga ega bo'lishlari mumkin (O'zbekiston bilan ikki tomonlama shartnomalar va O'zbekiston Prezidenti farmonlariga asosan fuqarolariga vizasiz rejim belgilangan davlatlar bundan mustasno). Bunday davlatlar ro'yxati va vizasiz qolish muddati Qabul qiluvchi Parlament veb-saytida mavjud.",
+          "12-Global yosh parlamentarlar konferensiyasida ishtirok etish uchun ro'yxatdan o'tgan barcha rasmiy delegatlarga vizalar bepul beriladi.",
+          "Agar ishtirokchi elektron viza (e-Visa) olish huquqiga ega bo'lsa va uni afzal ko'rsa, elektron tizimdan foydalanishi mumkin, ammo to'lov talab etiladi (chunki bu tizim faqat turistik vizalar uchun mo'ljallangan). Agar ishtirokchi e-Visa huquqiga ega bo'lsa, lekin to'lovni qoplashni istamasa, visas@senat.uz manziliga murojaat qilishi so'raladi.",
+          "Agar sizning mamlakatingiz vizasiz kirish yoki e-Visa tizimi orqali viza olish huquqiga ega davlatlar ro'yxatiga kirmasa, yuqoridagi manzil bo'yicha Senat Sekretariatiga murojaat qilib, O'zbekiston vizasini rasmiylashtirishni so'rang.",
+          "Diqqat: viza arizalari 2026-yil 28-avgustgacha qabul qilinadi. Ushbu muddatdan keyin hech qanday ariza va qo'shimcha hujjatlar qabul qilinmaydi.",
+          "Kelganda viza olish yoki boshqa viza masalalari bo'yicha Senat Sekretariatiga yuqoridagi manzilga murojaat qiling va xat mavzusida \"12th Global Conference of Young Parliamentarians\" yozing."
+        ]
+      },
+      {
+        "heading": "MEHMONXONADA JOYLASHTIRISH",
+        "paragraphs": [
+          "Delegatlar turar joy va oziq-ovqat xarajatlarini o'zlari qoplaydilar. Rasmiy konferensiya mehmonxonalari ro'yxati Qabul qiluvchi Parlamentning veb-saytida mavjud. Qo'shimcha ma'lumot uchun events@senat.uz manziliga yozing.",
+          "Delegatlar mehmonxonalarni oldindan band qilishlari tavsiya etiladi, chunki O'zbekistonda kuzda sayyohlik mavsumi boshlanadi va ko'plab mehmonxonalar band bo'lib qolishi mumkin."
+        ]
+      },
+      {
+        "heading": "AVIAQATNOVLAR VA QABUL XIZMATLARI",
+        "paragraphs": [
+          "Delegatlar Samarqandga o'zlarining aviachiptalarini mustaqil ravishda tashkil etish va moliyalashtirishlari lozim. Samarqand xalqaro aeroportida barcha ishtirokchilar uchun qabul stoli (welcome desk) ishlaydi. Qabul qiluvchi Parlament barcha delegatlarni aeroportdan rasmiy mehmonxonalarga va jo'nab ketish vaqtida transport bilan ta'minlaydi.",
+          "Barcha delegatsiyalardan o'z ishtirokchilarining kelish va jo'nab ketish haqidagi aniq ma'lumotlarini (sana, vaqt va reys ma'lumotlari) onlayn sayohat formasida taqdim etishlari so'raladi."
+        ]
+      },
+      {
+        "heading": "MAHALLIY TRANSPORT",
+        "paragraphs": [
+          "Mehmonxonalar va konferensiya o'tkaziladigan joyning ikkalasi ham Silk Road Samarkand turistik majmuasi hududida joylashgan. Bir qator mehmonxonalar konferensiya joyidan 5 daqiqa piyoda masofada joylashgan. Majmua ichidagi uzoqroq mehmonxonalar uchun mehmonxonalar va konferensiya joyi o'rtasida, shuningdek konferensiya doirasidagi barcha rasmiy tadbirlar uchun maxsus shuttle xizmati tashkil etiladi.",
+          "Toshkent yoki O'zbekistonning boshqa shaharlari orqali Samarqandga keladigan delegatlar Samarqandga borish va qaytish transportini o'zlari tashkil etishlari so'raladi. Rasmiy dasturdan tashqari vaqtda taksi buyurtma qilmoqchi bo'lgan delegatsiyalarga rasmiy konferensiya mehmonxonalari tavsiya etgan kompaniyalardan foydalanish maslahat beriladi."
+        ]
+      },
+      {
+        "heading": "RO'YXATDAN O'TKAZISH VA AXBOROT STOLI",
+        "paragraphs": [
+          "Beydjlarni tarqatish konferensiya o'tkaziladigan joyda 2026-yil 3-sentyabr kuni soat 09:00dan boshlanadi."
+        ]
+      },
+      {
+        "heading": "OVQATLANISH",
+        "paragraphs": [
+          "Bufet tushliklari 4 va 5-sentabr kunlari barcha delegatlar uchun konferensiya joyida taqdim etiladi. Tushlik shuningdek 6-sentabr kuni madaniy tadbir vaqtida ham beriladi."
+        ]
+      },
+      {
+        "heading": "QABUL VA TADBIRLAR",
+        "paragraphs": [
+          "O'zbekiston Respublikasi Oliy Majlisi Senati tomonidan tashkil etiladigan qabul marosimi haqidagi batafsil ma'lumotlar o'z vaqtida e'lon qilinadi."
+        ]
+      },
+      {
+        "heading": "SOG'LIQNI SAQLASH VA TIBBIY MA'LUMOTLAR",
+        "paragraphs": [
+          "Birinchi tibbiy yordam xizmatlari va tibbiy xodimlar tegishli mehmonxonalarda hamda konferensiya o'tkaziladigan joyda mavjud bo'ladi. Barcha tibbiy xizmatlar ishtirokchilar hisobidan amalga oshiriladi. Xalqaro tibbiy sug'urtaga ega bo'lishingizni tavsiya qilamiz.",
+          "Maxsus davolanishda bo'lgan shaxslarga yetarli miqdorda dori-darmon olib kelish tavsiya etiladi. Qabul qiluvchi Parlament Sekretariati maxsus tibbiy yoki boshqa ehtiyojlar (masalan, ovqatlanish talablari, allergiya yoki harakatlanish cheklovlari) haqida imkon qadar tezroq events@senat.uz manzili orqali xabardor qilinishini so'raydi.",
+          "MPIning tavsiya etilgan bitta shifoxonasi mavjud: Samarqand viloyati ko'p tarmoqli tibbiyot markazi. Ushbu shifoxona tadbir davomida zarur bo'lgan tibbiy yordamni ko'rsatadi.",
+          "Retsept bo'yicha dori-darmon qabul qilayotgan ishtirokchilar (shuningdek retsept bo'yicha ko'zoynak va tibbiy asboblar) o'zlari bilan retseptlar yoki tegishli tibbiy tavsiyanomalarning nusxalarini olib kelishlari muhimdir."
+        ]
+      },
+      {
+        "heading": "XAVFSIZLIK",
+        "paragraphs": [
+          "Konferensiya delegatlari va tadbirlarining xavfsizligini ta'minlash uchun barcha zarur choralar ko'riladi. Ishtirokchilar rasmiy tadbirlar davomida doimiy ravishda o'z identifikatsiya beydjlarini ko'rinadigan joyda taqib yurishlari shart. Yo'qotilgan barcha beydjlar haqida darhol Qabul qiluvchi Parlamentga xabar berish lozim."
+        ]
+      },
+      {
+        "heading": "IQLIM",
+        "paragraphs": [
+          "Sentyabr oyida Samarqandda o'rtacha minimal harorat +12°C, o'rtacha kunduzgi maksimal harorat esa +24–26°C ni tashkil qiladi."
+        ]
+      },
+      {
+        "heading": "VALYUTA",
+        "paragraphs": [
+          "O'zbekistonning milliy valyutasi — so'm (UZS). Taxminiy kurs: 12 000 so'm = 1 AQSh dollari. Kurs O'zbekiston Respublikasi Markaziy banki tomonidan belgilangan rasmiy kursga muvofiq o'zgarishi mumkin.",
+          "Banklarning odatiy ish vaqti: dushanbadan jumagacha soat 09:00 dan 16:00 gacha. Barcha tijorat banklarida bank xizmatlari mavjud. Ko'pgina banklarda Visa va MasterCard kartalarini qabul qiluvchi bankomatlar o'rnatilgan. Samarqandning ko'plab hududlarida valyuta ayirboshlash punktlari mavjud.",
+          "Xalqaro miqyosda tan olingan valyutalarni tijorat banklari, mehmonxonalar va Samarqand xalqaro aeroportida almashtirish mumkin. Asosiy kredit kartalari ko'pchilik mehmonxonalar, restoranlar va do'konlarda qabul qilinadi."
+        ]
+      },
+      {
+        "heading": "TELEKOMMUNIKATSIYA",
+        "paragraphs": [
+          "O'zbekistonning mamlakat kodi — +998, Samarqand shahri kodi — 66. Mamlakat kodi bilan qo'ng'iroq qilganda nol (0) ni tashlab, quyidagicha terish kerak: +998-66 + telefon raqami. Xalqaro qo'ng'iroqlar uchun format: 00 + mamlakat kodi + shahar kodi + telefon raqami.",
+          "O'zbekistonda quyidagi mobil aloqa operatorlari mavjud:"
+        ],
+        "bullets": [
+          "Uzmobile",
+          "UMS",
+          "Beeline",
+          "Ucell",
+          "Perfectum Mobile"
+        ],
+        "paragraphsAfter": [
+          "Ushbu operatorlar GPRS, 3G, 4G va 5G orqali internet xizmatini taqdim etadilar. Mobil telefon SIM-kartalari keng tarqalgan. Biroq, qonunga ko'ra har bir SIM-karta egasi / xaridori uni faollashtirish uchun shaxsni tasdiqlovchi hujjat (ID-karta yoki pasport) taqdim etgan holda ro'yxatdan o'tkazishi shart. SIM-kartani sotib olish joyida ro'yxatdan o'tkazish mumkin."
+        ]
+      },
+      {
+        "heading": "ISH VA SAVDO VAQTLARI",
+        "paragraphs": [
+          "Davlat idoralari dushanbadan jumagacha soat 09:00 dan 18:00 gacha ishlaydi. Tijorat korxonalari odatda dushanbadan jumagacha 08:00–22:00, dam olish kunlari esa 10:00–20:00 oralig'ida ishlaydi. Ko'pchilik bozorlar va savdo markazlari har kuni 09:00 dan 22:00 gacha ochiq."
+        ]
+      },
+      {
+        "heading": "CHEKISH",
+        "paragraphs": [
+          "Samarqanddagi barcha binolarda chekish (shu jumladan elektron sigaretalar) taqiqlanadi. Konferensiya o'tkaziladigan joylarda maxsus chekish joylari haqidagi ma'lumotlar qo'shimcha ravishda e'lon qilinadi."
+        ]
+      },
+      {
+        "heading": "BOJXONA QOIDALARI",
+        "paragraphs": [
+          "O'zbekiston Respublikasiga maxsus elektron uskunalar olib kirishni istagan har qanday delegat bojxona formasini to'ldirishi kerak (uni tegishli veb-sahifadan yuklab olish mumkin). Qo'shimcha ma'lumot yoki tushuntirish uchun info@customs.uz elektron manziliga yozing yoki (+99855) 502-55-69 telefon raqamiga qo'ng'iroq qiling."
+        ]
+      },
+      {
+        "heading": "MAHALLIY VAQT",
+        "paragraphs": [
+          "O'zbekiston GMT+5 vaqt mintaqasida joylashgan."
+        ]
+      },
+      {
+        "heading": "ELEKTR TA'MINOTI",
+        "paragraphs": [
+          "O'zbekistonda elektr quvvati 220 V, 50 Gts. Ikki turdagi vilka ishlatiladi:"
+        ],
+        "bullets": [
+          "C tipi — ikkita dumaloq pin;",
+          "F tipi — ikkita dumaloq pin va ikki tarafdagi yer kontaktlari."
+        ],
+        "paragraphsAfter": [
+          "Ko'pgina mehmonxonalar so'rov bo'yicha adapterlarni taqdim etadilar."
+        ]
+      },
+      {
+        "heading": "MUHIM TELEFON RAQAMLARI",
+        "paragraphs": [
+          "O'zbekistonda favqulodda holatlar uchun telefon raqamlari:"
+        ],
+        "bullets": [
+          "Tez yordam: 103",
+          "Militsiya: 102",
+          "Yong'in xavfsizligi: 101",
+          "Yagona qutqaruv xizmati: 1050"
+        ],
+        "paragraphsAfter": [
+          "Qo'shimcha ma'lumot va yordamni O'zbekiston Respublikasi Oliy Majlisi Senati Sekretariatidan olishingiz mumkin:"
+        ],
+        "bullets2": [
+          "Telefon: (+99878) 238-28-37",
+          "Email: events@senat.uz",
+          "Qabul qiluvchi Parlament veb-sayti"
+        ]
+      }
+    ],
+    "annex": {
+      "label": "ANNEX 1",
+      "title": "12-MPI GLOBAL YOSH PARLAMENTARIYALAR KONFERENSIYASI",
+      "dates": "2026-yil 4–6 sentyabr, Samarqand, O'zbekiston",
+      "subtitle": "SINHRON TARJIMA KABINALARINI RO'YXATDAN O'TKAZISH",
+      "instruction": "Ushbu formani to'ldiring va uni Qabul qiluvchi Parlamentga quyidagi elektron manzilga yuboring: events@senat.uz",
+      "delegation": "DELEGATSIYA: ................................................. (mamlakat/tashkilot)",
+      "contactTitle": "Kontakt ma'lumotlari",
+      "fields": [
+        "Ism",
+        "Otasi ismi",
+        "Familiya",
+        "Telefon",
+        "Faks",
+        "Elektron pochta",
+        "Bo'lim / Tashkilot bo'linmasi",
+        "Lavozim",
+        "Tashkilot",
+        "Pochta manzili",
+        "",
+        "",
+        "Shahar / Viloyat",
+        "Pochta indeksi",
+        "Mamlakat"
+      ],
+      "sessionLabels": [
+        "Sana",
+        "dd/mm",
+        "Vaqt",
+        "hh:mm–hh:mm"
+      ],
+      "note": "Eslatma: Kabinalar \"kim birinchi murojaat qilgan — o'sha foydalanadi\" tartibida taqdim etiladi. To'lov to'g'ridan-to'g'ri provayderga amalga oshiriladi."
+    }
+  },
+  "Register": {
+    "breadcrumbHome": "Bosh sahifa",
+    "title": "Ro'yxatdan o'tish",
+    "eventLabel": "Tadbirni tanlang",
+    "eventPlaceholder": "Tadbirni tanlang",
+    "eventOption": "Yosh parlament a'zolarining XII global konferensiyasi",
+    "firstName": "Ism",
+    "firstNamePlaceholder": "Ismingizni kiriting",
+    "lastName": "Familiya",
+    "lastNamePlaceholder": "Familiya",
+    "middleName": "Otasining ismi",
+    "middleNamePlaceholder": "Otasining ismi",
+    "gender": "Jins",
+    "genderPlaceholder": "Jinsni tanlang",
+    "genderMale": "Erkak",
+    "genderFemale": "Ayol",
+    "birthDate": "Tug'ilgan sana",
+    "birthDatePlaceholder": "Tug'ilgan sanani ko'rsating",
+    "country": "Davlat",
+    "countryPlaceholder": "Davlatni tanlang",
+    "email": "Email",
+    "emailPlaceholder": "Email",
+    "phone": "Telefon",
+    "phonePlaceholder": "Telefon",
+    "participantType": "Ishtirokchi turi",
+    "participantTypePlaceholder": "Ishtirokchi turini tanlang",
+    "participantDelegate": "Delegat",
+    "participantObserver": "Kuzatuvchi",
+    "participantExpert": "Ekspert",
+    "participantMedia": "Media",
+    "participantGuest": "Mehmon",
+    "submit": "Shakllantirish",
+    "submitting": "Yuborilmoqda...",
+    "successTitle": "Ro'yxatdan muvaffaqiyatli o'tdingiz!",
+    "successAck": "Tushundim",
+    "close": "Yopish"
+  },
+  "Footer": {
+    "brand": "Yosh siyosatchilar marafoni",
+    "tagline": "Xalqaro hamkorlik va dialog orqali barqaror va tinch kelajakni barpo etish.",
+    "contactsTitle": "Kontaktlar",
+    "address": "Oliy Majlis Qonunchilik palatasi, Toshkent",
+    "phoneLabel": "Aloqa uchun telefon:",
+    "rights": "© 2026 Yosh siyosatchilar va yoshlar parlamenti. Barcha huquqlar himoyalangan."
+  },
+  "Commission": {
+    "breadcrumbHome": "Bosh sahifa",
+    "breadcrumbAbout": "Tadbir haqida",
+    "title": "BRM komissiyasi",
+    "members": [
+      {
+        "name": "Narbayeva Tanzila Kamalovna",
+        "role": "O'zbekiston Respublikasi Oliy Majlisi Senatining Raisi, Komissiya hamraisi"
+      },
+      {
+        "name": "Ismoilov Nuriddin Mo'ydinxonovich",
+        "role": "O'zbekiston Respublikasi Oliy Majlisi Qonunchilik palatasining Spikeri, Komissiya hamraisi"
+      },
+      {
+        "name": "Safoyev Sodiq Solihovich",
+        "role": "O'zbekiston Respublikasi Oliy Majlisi Senati Raisining birinchi o'rinbosari, Komissiya hamraisining o'rinbosari"
+      },
+      {
+        "name": "Xodjayeva Mavludaxon Islomovna",
+        "role": "O'zbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi Spikerining o'rinbosari, Komissiya hamraisining o'rinbosari"
+      },
+      {
+        "name": "Gadoyev Erkin Fayziyevich",
+        "role": "Senatning Budjet va iqtisodiy masalalar qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Eshmuratov Abdulxakim Xushbokovich",
+        "role": "Senatning Sud-huquq masalalari va korrupsiyaga qarshi kurashish qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Burxanov Kutbidin Nukritdinovich",
+        "role": "Senatning Mudofaa va xavfsizlik masalalari qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Abdullayev Bahrom Ismoilovich",
+        "role": "Senatning Fan, ta'lim va sog'liqni saqlash masalalari qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Qozixonova Orzigul Mo'ydinovna",
+        "role": "Senatning Yoshlar, xotin-qizlar, madaniyat va sport masalalari qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "To'ychiyev Anvar Mirzaahmedovich",
+        "role": "Senatning Agrar, suv xo'jaligi masalalari va ekologiya qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Mamatkarimov Odiljon Oxundedayevich",
+        "role": "Senatning Xalqaro munosabatlar, tashqi iqtisodiy aloqalar, xorijiy investitsiyalar va turizm masalalari qo'mitasi raisining o'rinbosari, Komissiya a'zosi"
+      },
+      {
+        "name": "Nazarov Sharofiddin Hakimovich",
+        "role": "Qonunchilik palatasining Budjet va iqtisodiy masalalar qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Shermatov Ulug'bek Ubaydullayevich",
+        "role": "Qonunchilik palatasining Xalqaro ishlar, mudofaa va xavfsizlik masalalari qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Mamutov Ravshan Aminaddinovich",
+        "role": "Qonunchilik palatasining Agrar va suv xo'jaligi masalalari qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Agzamova Gulrux Anvarovna",
+        "role": "Qonunchilik palatasining Demokratik institutlar va fuqarolik jamiyatini rivojlantirish masalalari qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Abdullayev Ilhom Zoirovich",
+        "role": "Qonunchilik palatasining Innovatsion rivojlanish va axborot texnologiyalari masalalari qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Shirinov Jaxongir Jabbarovich",
+        "role": "Qonunchilik palatasining Korrupsiyaga qarshi kurashish va sud-huquq masalalari qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Bekmurodov Bobur Mansurovich",
+        "role": "Qonunchilik palatasining Tadbirkorlik, raqobat va sanoatni rivojlantirish masalalari qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Jumayev Nodir Xosiyatovich",
+        "role": "Qonunchilik palatasining Fan, ta'lim, madaniyat, sport va yoshlar masalalari qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Gapporov Xayrillo Lutpillayevich",
+        "role": "Qonunchilik palatasining Ekologiya va atrof muhitni muhofaza qilish masalalari qo'mitasi raisi, Komissiya a'zosi"
+      },
+      {
+        "name": "Muxtorova Nazira Abdusattorovna",
+        "role": "Qonunchilik palatasining Mehnat, sog'liqni saqlash va ijtimoiy masalalar qo'mitasi raisi, Komissiya a'zosi"
+      }
+    ]
+  },
+  "Programs": {
+    "breadcrumbHome": "Bosh sahifa",
+    "title": "Dastur",
+    "eventTitle": "Yosh parlament a'zolarining XII global konferensiyasi Parlamentlararo ittifoq bilan hamkorlikda",
+    "targetIso": "2026-09-03T09:00:00+05:00",
+    "countdown": {
+      "days": "kun",
+      "hours": "soat",
+      "minutes": "daqiqa",
+      "seconds": "soniya",
+      "started": "Konferensiya boshlandi"
+    },
+    "days": [
+      {
+        "id": "d3",
+        "day": "3",
+        "month": "Sentyabr",
+        "sessions": [
+          {
+            "title": "Delegatlar ro'yxatdan o'tkazish",
+            "start": "09:00",
+            "end": "18:00",
+            "details": "Konferensiya ishtirokchilarini ro'yxatdan o'tkazish, akkreditatsiya va axborot to'plamlarini topshirish."
+          },
+          {
+            "title": "Ochilish qabuli va tanishuv kechasi",
+            "start": "18:30",
+            "end": "20:30",
+            "details": "Delegatlar uchun norasmiy tanishuv kechasi va xush kelibsiz qabuli."
+          }
+        ]
+      },
+      {
+        "id": "d4",
+        "day": "4",
+        "month": "Sentyabr",
+        "sessions": [
+          {
+            "title": "Rasmiy ochilish marosimi",
+            "start": "09:00",
+            "end": "10:30",
+            "details": "Konferensiyaning tantanali ochilishi va yuqori martabali mehmonlarning nutqlari."
+          },
+          {
+            "title": "Yalpi majlis: Yoshlar va barqaror rivojlanish maqsadlari 2030",
+            "start": "11:00",
+            "end": "13:00",
+            "details": "Yoshlarning BRM-2030 maqsadlariga erishishdagi o'rni bo'yicha bosh yalpi majlis."
+          },
+          {
+            "title": "Tushlik tanaffusi",
+            "start": "13:00",
+            "end": "14:00",
+            "details": "Ishtirokchilar uchun tushlik va tarmoqlashuv."
+          },
+          {
+            "title": "Panel muhokama: Iqlim o'zgarishi va yosh liderlik",
+            "start": "14:30",
+            "end": "16:30",
+            "details": "Iqlim siyosati va yoshlarning tashabbuslari bo'yicha ekspert paneli."
+          }
+        ]
+      },
+      {
+        "id": "d5",
+        "day": "5",
+        "month": "Sentyabr",
+        "sessions": [
+          {
+            "title": "Mavzuli sessiyalar",
+            "start": "09:30",
+            "end": "12:30",
+            "details": "Ta'lim, raqamlashtirish va inklyuziv siyosat bo'yicha parallel mavzuli sessiyalar."
+          },
+          {
+            "title": "Tushlik tanaffusi",
+            "start": "12:30",
+            "end": "13:30",
+            "details": "Ishtirokchilar uchun tushlik va tarmoqlashuv."
+          },
+          {
+            "title": "Amaliy ustaxonalar",
+            "start": "14:00",
+            "end": "17:00",
+            "details": "Yosh parlamentariylar uchun ko'nikma rivojlantirish bo'yicha amaliy ustaxonalar."
+          }
+        ]
+      },
+      {
+        "id": "d6",
+        "day": "6",
+        "month": "Sentyabr",
+        "sessions": [
+          {
+            "title": "Yakuniy yalpi majlis va rezolyutsiyani qabul qilish",
+            "start": "09:30",
+            "end": "12:00",
+            "details": "Konferensiya natijalarini umumlashtirish va yakuniy rezolyutsiyani qabul qilish."
+          },
+          {
+            "title": "Yopilish marosimi",
+            "start": "12:30",
+            "end": "14:00",
+            "details": "Konferensiyaning tantanali yopilishi va yakuniy so'zlar."
+          }
+        ]
+      }
+    ]
+  },
+  "Manifesto": {
+    "quoteName": "Ism Familiya",
+    "quoteRole": "Yosh parlament a’zosi",
+    "heading": "Manifest 2026",
+    "p1": "“G‘oya Ber, Fikir Bildir” manifesti — yoshlarning dunyoni qanday o‘zgartirishni istashini aks ettiruvchi hujjat bo‘lib, oldinga intilishga tayyor butun bir avlodning umumiy umidlari va tashvishlarini ifodalaydi.",
+    "p2": "Manifest bir necha oy davomida yuzlab takliflar asosida shakllantirildi va adolat, tenglik hamda imkoniyat qadriyatlariga asoslangan holda kelajakni birgalikda qurishga chaqiradi.",
+    "p3": "Unda ilgari surilgan masalalar — ta’lim, bandlik, transport va boshqa ko‘plab yo‘nalishlar — butun mamlakat yoshlarining fikrini aks ettiradi.",
+    "finalQuote": "Ushbu manifest ham chaqiruv, ham taklifdir. Hokimiyatdagi barchaga: bu bizning sizni eshitishga, harakat qilishga va yoshlar ovozini dunyoni shakllantiradigan qarorlar markaziga qo‘yishga chaqirig‘imizdir. G‘oyalari, kuchi va orzularini ulashgan barcha yoshlarga: bu — sizning fursatingiz.",
+    "committee": "Manifest qo‘mitasi",
+    "committeeOrg": "Yoshlar parlamenti",
+    "downloadHint": "To‘liq manifestni yuklab olish uchun quyidagi tugmani bosing.",
+    "badgeLabel": "Manifest 2026",
+    "register": "Ro‘yxatdan o‘tish"
+  }
+}

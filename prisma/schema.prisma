@@ -1,0 +1,84 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// Single-row table holding the admin panel password (scrypt hash).
+model AdminSettings {
+  id           Int      @id @default(1)
+  passwordHash String
+  updatedAt    DateTime @updatedAt
+}
+
+// FAQ entries, managed from the admin panel. Multilingual (uz/ru/en).
+model FaqItem {
+  id         String   @id @default(cuid())
+  order      Int      @default(0)
+  questionUz String
+  questionRu String   @default("")
+  questionEn String   @default("")
+  answerUz   String
+  answerRu   String   @default("")
+  answerEn   String   @default("")
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+}
+
+// "Marafon haqida" dropdown menu items. level 0 = bold top entry (bullet),
+// level 1 = indented child under the preceding top entry.
+model AboutMenuItem {
+  id      String @id @default(cuid())
+  order   Int    @default(0)
+  level   Int    @default(0)
+  href    String @default("")
+  labelUz String
+  labelRu String @default("")
+  labelEn String @default("")
+}
+
+// Editable content for the "Marafon haqida" conference sections, keyed by slug.
+// body holds paragraphs separated by blank lines.
+model PageContent {
+  slug      String   @id
+  titleUz   String   @default("")
+  titleRu   String   @default("")
+  titleEn   String   @default("")
+  bodyUz    String   @default("")
+  bodyRu    String   @default("")
+  bodyEn    String   @default("")
+  updatedAt DateTime @updatedAt
+}
+
+// Editable Hero (homepage top) content: background image + multilingual texts.
+// Single row (id = 1). Empty fields fall back to the message-file defaults.
+model HeroContent {
+  id            Int      @id @default(1)
+  image         String   @default("")
+  titleUz       String   @default("")
+  titleRu       String   @default("")
+  titleEn       String   @default("")
+  descriptionUz String   @default("")
+  descriptionRu String   @default("")
+  descriptionEn String   @default("")
+  organizerUz   String   @default("")
+  organizerRu   String   @default("")
+  organizerEn   String   @default("")
+  countdownTarget String @default("") // ISO datetime with offset, e.g. 2026-09-03T00:00:00+05:00
+  updatedAt     DateTime @updatedAt
+}
+
+// Media library: photos (uploaded to /public/uploads) or videos (URL/embed).
+model MediaItem {
+  id        String   @id @default(cuid())
+  type      String // "photo" | "video"
+  src       String // uploaded path (/uploads/..) or external/video URL
+  titleUz   String   @default("")
+  titleRu   String   @default("")
+  titleEn   String   @default("")
+  order     Int      @default(0)
+  createdAt DateTime @default(now())
+}
