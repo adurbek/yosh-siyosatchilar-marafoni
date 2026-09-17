@@ -1,0 +1,932 @@
+{
+  "Meta": {
+    "title": "Yosh Siyosatchi Marafoni",
+    "description": "XII Global Conference of Young Parliamentarians in cooperation with the Inter-Parliamentary Union. Samarkand, 3 September 2026."
+  },
+  "Nav": {
+    "about": "About the marathon",
+    "programs": "Programs",
+    "news": "News",
+    "media": "Media",
+    "faq": "FAQ",
+    "register": "Register",
+    "language": "Language",
+    "aboutMenu": {
+      "conference": "XII Global Conference of Young Parliamentarians in cooperation with the Inter-Parliamentary Union",
+      "lowerHouse": "Youth Parliament under the Legislative Chamber of the Oliy Majlis",
+      "parliamentYouth": "Parliament and youth",
+      "infoNote": "General information note",
+      "commission": "History of the Youth Parliament"
+    },
+    "mediaMenu": {
+      "photo": "Photo materials",
+      "video": "Video materials"
+    },
+    "logoAlt": "Young Politicians Marathon",
+    "logoYouthParliament": "Youth Parliament",
+    "logoYoungPolitician": "Young Politician"
+  },
+  "Hero": {
+    "eventDate": "3 SEPTEMBER, 2026",
+    "title": "Share Your Idea, Voice Your Opinion",
+    "description": "Let's Build the Future Together!",
+    "organizer": "The Young Politicians Marathon is organized by the Youth Parliament under the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan with the support of the Konrad Adenauer Foundation's Regional Office for Central Asia.",
+    "primaryCta": "Register",
+    "secondaryCta": "About the program"
+  },
+  "Countdown": {
+    "days": "DAYS",
+    "hours": "HOURS",
+    "minutes": "MINUTES",
+    "seconds": "SECONDS",
+    "started": "The conference has started"
+  },
+  "Featured": {
+    "title": "XII Global Conference of Young Parliamentarians in cooperation with the Inter-Parliamentary Union",
+    "description": "The Inter-Parliamentary Union's commitment to supporting youth participation in politics began with the adoption of the resolution \"Youth participation in the democratic process\" at the 122nd IPU Assembly in Bangkok, Thailand, in 2010.",
+    "cta": "Register"
+  },
+  "Sdg": {
+    "title": "Sustainable Development <accent>Goals</accent> in Uzbekistan",
+    "description": "The UN and its partners in Uzbekistan are working to achieve the Sustainable Development Goals: 17 interconnected and ambitious goals aimed at addressing the key development challenges for people in Uzbekistan and around the world.",
+    "cta": "Learn more"
+  },
+  "News": {
+    "title": "News",
+    "more": "Learn more",
+    "items": [
+      {
+        "id": "1",
+        "date": "2026-08-18",
+        "title": "The Sustainable Development Goals month has been launched",
+        "excerpt": "On August 6, a conference on \"Sustainable Development Goals: a new stage of national development\", officially launching the SDG month, was held in the Senate.",
+        "body": [
+          "On August 6, a conference on \"Sustainable Development Goals: a new stage of national development\", officially launching the SDG month, was held in the Senate.",
+          "It was attended by members of parliament, heads of ministries and agencies, a representative of the UN office in our country, the leadership of the Secretariat of the Inter-Parliamentary Union, as well as representatives of non-governmental non-profit organizations, the media and entrepreneurs.",
+          "The event was opened by Tanzila Narbaeva, Chairperson of the Senate of the Oliy Majlis and Co-Chair of the Parliamentary Commission for monitoring the implementation of the National Goals and Objectives in the field of sustainable development for the period up to 2030.",
+          "As noted, hundreds of events will be organized throughout the republic during the SDG month. These include parliamentary hearings, sessions of local Councils, scientific-practical conferences, forums, round tables, open dialogues, meetings in neighborhoods (mahallas), advocacy events, and special media projects in the mass media and on social networks.",
+          "The purpose of holding the SDG month is to strengthen the public's sense of ownership of the SDG ideas, to broadly demonstrate the effectiveness of the reforms being carried out in our country, and to unite efforts towards common goals.",
+          "As the speakers and foreign and national experts noted at the conference, our country has adopted 16 national Sustainable Development Goals and 126 targets, fully aligning them with the priority directions of the \"Uzbekistan – 2030\" strategy.",
+          "As a result of consistent reforms implemented on the basis of this strategic approach, significant positive results have been achieved on more than 70 percent of the Sustainable Development Goals, and the set indicators have been fully realized on 45 percent.",
+          "In particular, the poverty rate decreased from 17 percent in 2021 to 5.8 percent at the end of 2025.",
+          "Coverage of preschool education rose from 27.7 percent to 78 percent, and coverage of higher education rose from 8.3 percent to 47.7 percent.",
+          "The share of women in public administration reached 35 percent (from 27 percent), 38 percent in the Legislative Chamber, and 32.5 percent in local Councils.",
+          "All these results are a clear expression of how the reforms being implemented in New Uzbekistan serve to ensure human interests and guarantee sustainable development."
+        ]
+      },
+      {
+        "id": "2",
+        "date": "2026-08-18",
+        "title": "Preparations for the XII Global Conference of Young Parliamentarians discussed",
+        "excerpt": "On July 28, a meeting of the Organizing Committee for holding the IPU's XII Global Conference of Young Parliamentarians in Samarkand was held under the leadership of the Chairperson of the Senate of the Oliy Majlis, Tanzila Narbaeva.",
+        "body": [
+          "On July 28, a meeting of the Organizing Committee for holding the IPU's XII Global Conference of Young Parliamentarians in Samarkand was held under the leadership of the Chairperson of the Senate of the Oliy Majlis, Tanzila Narbaeva.",
+          "The meeting discussed preparations for the conference, organizational and technical issues, and areas of international cooperation.",
+          "It was emphasized that the conference will bring together young parliamentarians and serve as an important platform for them to exchange experience and contribute to the sustainable development goals."
+        ]
+      },
+      {
+        "id": "3",
+        "date": "2026-07-24",
+        "title": "Urbanization level in Uzbekistan reached 51 percent",
+        "excerpt": "On June 18, 2026, a meeting of the Parliamentary Commission for monitoring the implementation of the National Goals and Objectives in the field of sustainable development of the Republic of Uzbekistan for the period up to 2030 was held.",
+        "body": [
+          "On June 18, 2026, a meeting of the Parliamentary Commission for monitoring the implementation of the National Goals and Objectives in the field of sustainable development of the Republic of Uzbekistan for the period up to 2030 was held.",
+          "The meeting considered urbanization processes in the country, balanced regional development, and sustainable urban planning issues.",
+          "It also discussed measures aimed at developing settlements, infrastructure, and improving the well-being of the population."
+        ]
+      },
+      {
+        "id": "4",
+        "date": "2026-06-05",
+        "title": "Chairperson of the Senate met with young people engaged in startup activities",
+        "excerpt": "Tanzila Narbaeva, Chairperson of the Senate of the Oliy Majlis, held a meeting with active, enterprising young people engaged in startup projects."
+      },
+      {
+        "id": "5",
+        "date": "2026-06-05",
+        "title": "The first Global Forum on inter-parliamentary cooperation in achieving the SDGs was held in Bukhara",
+        "excerpt": "On June 23-24, 2021, the 1st Global Forum dedicated to issues of global inter-parliamentary cooperation in achieving the Sustainable Development Goals (SDGs) was held in Bukhara."
+      },
+      {
+        "id": "6",
+        "date": "2026-06-05",
+        "title": "The Chairperson of the Senate held a meeting with the Secretary General of the Inter-Parliamentary Union in Geneva",
+        "excerpt": "In October 2025, Tanzila Narbaeva, Chairperson of the Senate of the Oliy Majlis, held a meeting with the Secretary General of the Inter-Parliamentary Union, Martin Chungong, within the framework of the 151st IPU Assembly."
+      },
+      {
+        "id": "7",
+        "date": "2026-06-05",
+        "title": "Issues of sustainable development and global cooperation were considered at the Forum of Young Parliamentarians",
+        "excerpt": "The Forum of Young Parliamentarians was held within the framework of the 152nd IPU Assembly. The delegation of the Uzbek parliament, led by Tanzila Narbaeva, Chairperson of the Senate of the Oliy Majlis, took part in it."
+      },
+      {
+        "id": "8",
+        "date": "2026-06-05",
+        "title": "Issues of rational use of forests and combating desertification were discussed",
+        "excerpt": "On April 23 of this year, the next meeting of the Parliamentary Commission for monitoring the implementation of the National Goals and Objectives in the field of sustainable development for the period up to 2030 was held."
+      },
+      {
+        "id": "9",
+        "date": "2026-06-05",
+        "title": "Issues of strengthening the role of parliaments in achieving the SDGs were discussed at the second Global Forum in Tashkent",
+        "excerpt": "On November 30, 2023, issues of inter-parliamentary cooperation in implementing the Sustainable Development Goals were discussed at the \"Uzbekistan\" International Congress Center in Tashkent."
+      },
+      {
+        "id": "10",
+        "date": "2026-06-05",
+        "title": "Issues of protecting the rights of persons with disabilities were discussed",
+        "excerpt": "On February 18, 2026, a meeting of the Parliamentary Commission for monitoring the implementation of the national goals and objectives in the field of sustainable development of the Republic of Uzbekistan for the period up to 2030 was held."
+      },
+      {
+        "id": "11",
+        "date": "2026-05-28",
+        "title": "Sample: news headline 11",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 11."
+      },
+      {
+        "id": "12",
+        "date": "2026-05-22",
+        "title": "Sample: news headline 12",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 12."
+      },
+      {
+        "id": "13",
+        "date": "2026-05-16",
+        "title": "Sample: news headline 13",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 13."
+      },
+      {
+        "id": "14",
+        "date": "2026-05-10",
+        "title": "Sample: news headline 14",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 14."
+      },
+      {
+        "id": "15",
+        "date": "2026-05-04",
+        "title": "Sample: news headline 15",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 15."
+      },
+      {
+        "id": "16",
+        "date": "2026-04-28",
+        "title": "Sample: news headline 16",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 16."
+      },
+      {
+        "id": "17",
+        "date": "2026-04-22",
+        "title": "Sample: news headline 17",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 17."
+      },
+      {
+        "id": "18",
+        "date": "2026-04-16",
+        "title": "Sample: news headline 18",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 18."
+      },
+      {
+        "id": "19",
+        "date": "2026-04-10",
+        "title": "Sample: news headline 19",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 19."
+      },
+      {
+        "id": "20",
+        "date": "2026-04-04",
+        "title": "Sample: news headline 20",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 20."
+      },
+      {
+        "id": "21",
+        "date": "2026-03-29",
+        "title": "Sample: news headline 21",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 21."
+      },
+      {
+        "id": "22",
+        "date": "2026-03-23",
+        "title": "Sample: news headline 22",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 22."
+      },
+      {
+        "id": "23",
+        "date": "2026-03-17",
+        "title": "Sample: news headline 23",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 23."
+      },
+      {
+        "id": "24",
+        "date": "2026-03-11",
+        "title": "Sample: news headline 24",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 24."
+      },
+      {
+        "id": "25",
+        "date": "2026-03-05",
+        "title": "Sample: news headline 25",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 25."
+      },
+      {
+        "id": "26",
+        "date": "2026-02-27",
+        "title": "Sample: news headline 26",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 26."
+      },
+      {
+        "id": "27",
+        "date": "2026-02-21",
+        "title": "Sample: news headline 27",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 27."
+      },
+      {
+        "id": "28",
+        "date": "2026-02-15",
+        "title": "Sample: news headline 28",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 28."
+      },
+      {
+        "id": "29",
+        "date": "2026-02-09",
+        "title": "Sample: news headline 29",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 29."
+      },
+      {
+        "id": "30",
+        "date": "2026-02-03",
+        "title": "Sample: news headline 30",
+        "excerpt": "This is a placeholder news text. Replace it with a real headline, date and short description. Order number: 30."
+      }
+    ],
+    "all": "All",
+    "perPage": "per page",
+    "breadcrumbHome": "Home",
+    "other": "Other news"
+  },
+  "Media": {
+    "title": "Media library",
+    "more": "Learn more",
+    "breadcrumbHome": "Home",
+    "photoTitle": "Photo materials",
+    "videoTitle": "Video materials",
+    "eventTitle": "XII Global Conference of Young Parliamentarians in cooperation with the Inter-Parliamentary Union",
+    "videoEmpty": "Video materials will be added soon.",
+    "albums": [
+      {
+        "id": "a1",
+        "day": "26",
+        "month": "March",
+        "date": "2026-03-26"
+      },
+      {
+        "id": "a2",
+        "day": "28",
+        "month": "March",
+        "date": "2026-03-28"
+      }
+    ],
+    "videoAlbums": [
+      {
+        "id": "v1",
+        "day": "20",
+        "month": "April",
+        "date": "2026-04-20"
+      }
+    ]
+  },
+  "Faq": {
+    "title": "Frequently asked questions",
+    "breadcrumbHome": "Home",
+    "items": [
+      {
+        "id": "1",
+        "question": "What is the Global Conference of Young Parliamentarians?",
+        "answer": "The Global Conference of Young Parliamentarians is an international platform organized by the Inter-Parliamentary Union, where young parliamentarians from different countries discuss pressing issues of youth policy development, exchange experiences, and foster cooperation."
+      },
+      {
+        "id": "2",
+        "question": "Who can participate in the conference?",
+        "answer": "Young parliamentarians from IPU member countries, representatives of youth organizations, and invited experts can participate in the conference."
+      },
+      {
+        "id": "3",
+        "question": "What is the goal of the conference?",
+        "answer": "The main goal of the conference is to strengthen youth participation in political processes, exchange experience, and increase the role of youth in achieving the Sustainable Development Goals."
+      }
+    ]
+  },
+  "Conference": {
+    "breadcrumbHome": "Home",
+    "title": "XII Global Conference of Young Parliamentarians in cooperation with the Inter-Parliamentary Union",
+    "aboutTitle": "About us",
+    "p1": "The Inter-Parliamentary Union's commitment to supporting youth participation in politics began with the adoption of the resolution \"Youth participation in the democratic process\" at the 122nd Assembly of the Inter-Parliamentary Union, held in Bangkok (Thailand) in 2010. This resolution called for expanding youth participation in political life, and consequently the parliaments that are members of the Inter-Parliamentary Union requested the Union to provide assistance and methodological guidance in this process.",
+    "p2": "In 2013, the Inter-Parliamentary Union established the Forum of Young Parliamentarians — an official and permanently functioning body that helps expand youth participation in parliaments and in the work of the Inter-Parliamentary Union, both quantitatively and qualitatively.",
+    "p3": "Building on the accumulated experience, the Inter-Parliamentary Union established the annual Global Conference of Young Parliamentarians — a platform for discussing the youth agenda, building the capacity of young parliamentarians, encouraging youth participation in politics, and increasing the visibility of youth leadership. The Global Conferences of the young members of the Inter-Parliamentary Union bring together young parliamentarians from around the world to discuss topics of common interest.",
+    "listIntro": "To date, eleven conferences have been held:",
+    "conferences": [
+      "Geneva, October 2014;",
+      "Tokyo, May 2015;",
+      "Lusaka, March 2016;",
+      "Ottawa, November 2017;",
+      "Baku, December 2018;",
+      "Asunción, September 2019;",
+      "Virtual format, April 2021;",
+      "Sharm El-Sheikh, June 2022;",
+      "Hanoi, September 2023;",
+      "Yerevan, September 2024;",
+      "Lima, September 2025."
+    ],
+    "p4": "The format of the conferences is aimed at introducing innovative and interactive approaches, developing capacity, and creating opportunities for young parliamentarians to establish professional connections, including through group work, training sessions, and networking events.",
+    "goalTitle": "Purpose of the event",
+    "goalText": "To expand the active participation of young people in political processes, strengthen their role in parliamentary activity and lawmaking, and create an effective platform for exchanging experience, developing capacity, and strengthening international cooperation among young parliamentarians.",
+    "speakersTitle": "Speakers",
+    "speakersEmpty": "Information is being updated",
+    "organizersTitle": "Organizers",
+    "organizerName": "Senate of the Oliy Majlis of the Republic of Uzbekistan",
+    "contactsTitle": "Organizing committee contacts",
+    "emailLabel": "Email",
+    "email": "events@senat.uz",
+    "phoneLabel": "Phone",
+    "phone": "+99878 238-28-37",
+    "addressLabel": "Address",
+    "address": "100078, Tashkent city, Islam Karimov street, 9",
+    "linkLowerHouse": "Youth Parliament under the Legislative Chamber of the Oliy Majlis",
+    "linkParliamentYouth": "Parliament and youth",
+    "linkInfoNote": "General information note",
+    "linkCommission": "History of the Youth Parliament"
+  },
+  "LowerHouse": {
+    "breadcrumbHome": "Home",
+    "breadcrumbAbout": "About the event",
+    "title": "Youth Parliament under the Legislative Chamber of the Oliy Majlis",
+    "paragraphs": [
+      "On 27 October 2024, elections to the Legislative Chamber were held for the first time in the country's history on the basis of a mixed electoral system. Under these conditions, the need arose to form a Youth Parliament and improve the procedures governing its work.",
+      "In February 2025, by decision of the Council of the Legislative Chamber, the regulation on the Youth Parliament and its Rules of Procedure were approved. Political parties were advised to nominate candidates for membership of the Youth Parliament being formed within one month. The Office of the Legislative Chamber was tasked with creating the necessary conditions for the effective work of the Youth Parliament and its members, ensuring their participation in sessions and events, and organizing the issuance of service certificates and badges. Previously adopted decisions of 2020 and 2022 were declared void.",
+      "According to the approved Regulation, the Youth Parliament does not have the status of a legal entity and is a consultative body accountable to the Legislative Chamber. It consists of 150 members aged 18 to 30 and is formed by political parties taking into account the mixed electoral system: 75 candidates from single-mandate constituencies and 75 in proportion to the number of deputies elected from a single constituency. Candidates must possess leadership qualities, a strong civic position, and knowledge in the field of state and public development. A number of categories of persons, including deputies, military servicemen, law enforcement officers, and persons with unexpunged convictions, may not be recommended for membership.",
+      "The Youth Parliament was granted the right, in coordination with the relevant sectoral commission, to request necessary materials from state bodies, to participate with the leadership's consent in sessions of the chamber and its bodies, to use the library and electronic resources, and to form working groups of experts and specialists.",
+      "The Youth Parliament was granted the right, in coordination with the relevant commission, to request necessary materials from state bodies, to participate with the leadership's consent in sessions of the chamber and its bodies, to use the library and electronic resources, and to form working groups of experts and specialists.",
+      "The organizational form of its activity consists of meetings held at least twice a year on the principles of openness and transparency. The members elect from among themselves a chairperson and six deputies, form the council of the Youth Parliament and eight specialized committees covering the issues of legal literacy and patriotism, employment and healthcare, innovation and ICT, entrepreneurship and industry, science and education, ecology, international cooperation, development of civil society, and volunteering.",
+      "The formation of political groups along party lines and the election of a secretary and a press secretary are envisaged. The financing of activities is carried out from the State budget funds allocated to the Legislative Chamber.",
+      "Members of the Youth Parliament work on a voluntary basis, receive a certificate and a badge, have the right to submit proposals and to participate in discussions and voting, and are also required to actively participate in the work and comply with the requirements of the legislation and the regulation. Powers may be terminated early on a number of grounds, including a personal application, appointment to an incompatible position, entry into force of a conviction, loss of citizenship, or recall by a political party.",
+      "The Rules of Procedure define the order for holding sessions, the first session, electing the Chairperson and their deputies by secret ballot, forming committees, and organizing internal work. The first convocation is held within one month after the composition is formed on the initiative of the relevant commission.",
+      "Thus, the updated legal framework is aimed at institutionally strengthening the Youth Parliament under the Legislative Chamber, expanding youth participation in lawmaking, and adapting its activities to the country's new electoral model."
+    ]
+  },
+  "Senate": {
+    "breadcrumbHome": "Home",
+    "breadcrumbAbout": "About the event",
+    "title": "Youth Parliament under the Senate",
+    "paragraphs": [
+      "In Uzbekistan, young people are regarded as a strategic resource for the development of the state. Youth make up a significant part of the country's population, and it is precisely for this reason that state policy is aimed at creating conditions for their comprehensive development, legal culture, social activity, and involvement in the processes of state and public administration. To this end, a consultative body — the Youth Parliament — operates under the Senate of the Oliy Majlis of the Republic of Uzbekistan, ensuring the practical participation of young people in lawmaking, parliamentary oversight, and the socio-political life of the country.",
+      "The Youth Parliament carries out its activities on the basis of the Constitution of the Republic of Uzbekistan, current legislation, decisions of the Senate, and the approved Regulation. It is not a legal entity and operates on a voluntary basis as a consultative structure under the Senate. The term of office of the Youth Parliament is five years. Its main goal is to involve young people in the lawmaking process, familiarize them with mechanisms of parliamentary oversight, develop their leadership, public speaking, and decision-making skills, and convey the pressing problems of youth directly to the Senate.",
+      "The Youth Parliament is composed of 100 people aged 18 to 30. It includes young deputies elected to the territorial Kengashes of people's deputies (6 from each region), representatives recommended by the Agency for Youth Affairs, as well as candidates recommended by the relevant committee of the Senate. When forming the composition, the principles of equality, an active civic position, leadership potential, initiative, and a high level of legal and political culture are taken into account.",
+      "The main areas of the Youth Parliament's activity cover a wide range of issues related to fostering patriotism and an active civic position among young people, preventing offences and crime, preventing violence against children, raising ecological culture, studying the socio-economic problems of youth in the regions, preparing proposals for improving legislation, establishing strategic cooperation with ministries and agencies, developing international cooperation with youth parliaments of other countries, and actively participating in public discussions through the mass media and social networks.",
+      "Members of the Youth Parliament participate in the discussion of draft laws, hold meetings with young people in the regions, prepare analytical materials on problematic issues, submit proposals to state programs, promote startups and innovative ideas, and help resolve issues in the fields of education, employment, entrepreneurship, ecology, and healthcare. Special attention is paid to supporting graduates of mercy homes and to working with the youth of Uzbekistan studying and working abroad.",
+      "The structure of the Youth Parliament includes seven specialized commissions covering the issues of employment and the economy, youth rights and legislation, patriotic education, international relations and tourism, the agrarian sector and ecology, science, innovation and healthcare, as well as culture, sport, and gender equality. Through the commissions, the activities of members are coordinated and a systematic approach to solving the tasks of each area is ensured.",
+      "Each member of the Youth Parliament is assigned to a senator within the framework of a \"mentor–mentee\" system, and also cooperates with a specific ministry or agency. This allows young people to study the mechanisms of state administration in practice, participate in the work of Senate committees, and gain unique practical experience in parliamentary activity.",
+      "Special attention is paid to the international direction. The Youth Parliament is developing cooperation with the youth parliaments of foreign countries, participating in international forums, promoting the \"Uzbek model\" of state youth policy, and maintaining ties with compatriots abroad.",
+      "The activities of the Youth Parliament are built on the principles of openness and transparency. Meetings are held at least three times a year, and its activities are widely covered in the mass media and social networks. Every year on 30 June, the Day of Youth of Uzbekistan, the Youth Parliament presents to the public a report on the projects implemented and the results achieved.",
+      "Thus, the Youth Parliament under the Senate of the Oliy Majlis of the Republic of Uzbekistan is an effective platform for direct dialogue between young people and the country's supreme legislative body, an important tool for shaping future leaders, and a mechanism for involving youth in the processes of making state decisions."
+    ]
+  },
+  "ParliamentYouth": {
+    "breadcrumbHome": "Home",
+    "breadcrumbAbout": "About the event",
+    "title": "Parliament and youth",
+    "paragraphs": [
+      "In Uzbekistan, young people are considered a strategic resource for the country's development. Today, more than 19 million people under the age of 30 make up over 55 percent of the population, and the state is creating the appropriate conditions for their education, professional development, entrepreneurial activity, creative initiative, and participation in public life. State youth policy is aimed at protecting the rights of young people, supporting their initiatives, forming a safe and favourable environment for their growth, and involving them in governance and lawmaking.",
+      "Over the past six years, 106 legislative and by-law acts aimed at strengthening the rights and opportunities of young people have been adopted in our country, including 9 laws, 10 presidential decrees, 25 presidential resolutions, and 62 resolutions of the Cabinet of Ministers. The key law was the law \"On State Youth Policy\" (2016), which became the basis for all subsequent initiatives and programs. In 2023–2025, the Senate adopted 4 of the most important laws concerning the protection of children, volunteer activity, and the prevention of violence, including the laws \"On Volunteer Activity\", \"On the Protection of Children from Violence\", and \"On the Children's Ombudsman\". These laws create a legal basis for protecting the rights, freedoms, and opportunities of young people and children.",
+      "The education and professional development of young people is one of the state's priority tasks. In recent years, higher education coverage has grown from 9 to 38 percent, and more than 151 thousand students have received preferential education loans worth 1.7 trillion soum. Within the framework of the \"Professions of the Future\" and \"Children of Ibrat\" projects, more than 25 thousand young people have mastered modern professions and foreign languages, and through the \"Ustoz AI\" online project, about 250 thousand young people have acquired skills in digital and innovative fields. Within the framework of the \"Young Reader\" and \"Mutolaa\" projects to develop a culture of reading, more than 4 million young people have been covered, and thousands of audio and electronic books have been made freely available.",
+      "Issues of security and social support for young people are also in the focus of the state's attention. The \"Youth Balance\" system and the \"Digital Mahalla\" online monitoring ensure support for socially vulnerable segments of the population, the prevention of offences, and support for initiatives. As a result, 2,474 mahallas have become territories free of youth crime. More than 369 thousand young people have been provided with individual assistance and consultations, and about 170 thousand with financial and social support through local initiatives.",
+      "Parliament plays an important role in implementing youth policy. Youth Parliaments operate in the Senate and the Legislative Chamber, participating in the discussion of laws, putting forward initiatives, and gaining experience in parliamentary work. The Senate monitors the implementation of programs and initiatives, evaluates their effectiveness, and involves young people in discussing social, educational, and economic issues. In addition, a mentor-senator is assigned to each member of the Youth Parliament, which ensures the exchange of experience and active participation in lawmaking.",
+      "State youth policy is not only about laws and programs, but also about live dialogue. Regular meetings are held with government bodies, the initiatives and proposals of young people are discussed, and opportunities are created to implement ideas locally. Programs and projects cover not only education and employment, but also creativity, sport, volunteering, digital skills, foreign languages, and cultural development. Every young person is given the opportunity to prove themselves and contribute to the development of their mahalla, district, and country.",
+      "Today, the youth of Uzbekistan have unique opportunities for education, professional growth, and creative and social activity. State support, parliamentary oversight, and targeted initiatives create an environment in which every young person can exercise their rights, develop their abilities, participate in the life of society, and become an active creator of the country's future."
+    ]
+  },
+  "Register": {
+    "breadcrumbHome": "Home",
+    "title": "Registration",
+    "eventLabel": "Select an event",
+    "eventPlaceholder": "Select an event",
+    "eventOption": "XII Global Conference of Young Parliamentarians",
+    "firstName": "First name",
+    "firstNamePlaceholder": "Enter your first name",
+    "lastName": "Last name",
+    "lastNamePlaceholder": "Last name",
+    "middleName": "Middle name",
+    "middleNamePlaceholder": "Middle name",
+    "gender": "Gender",
+    "genderPlaceholder": "Select gender",
+    "genderMale": "Male",
+    "genderFemale": "Female",
+    "birthDate": "Date of birth",
+    "birthDatePlaceholder": "Select date of birth",
+    "country": "Country",
+    "countryPlaceholder": "Select a country",
+    "email": "Email",
+    "emailPlaceholder": "Email",
+    "phone": "Phone",
+    "phonePlaceholder": "Phone",
+    "participantType": "Participant type",
+    "participantTypePlaceholder": "Select participant type",
+    "participantDelegate": "Delegate",
+    "participantObserver": "Observer",
+    "participantExpert": "Expert",
+    "participantMedia": "Media",
+    "participantGuest": "Guest",
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "successTitle": "You have successfully registered!",
+    "successAck": "Understood",
+    "close": "Close"
+  },
+  "Footer": {
+    "brand": "Yosh siyosatchilar marafoni",
+    "tagline": "Building a sustainable and peaceful future through international cooperation and dialogue.",
+    "contactsTitle": "Contacts",
+    "address": "Legislative Chamber of the Oliy Majlis, Tashkent",
+    "phoneLabel": "Contact phone:",
+    "rights": "© 2026 Young Politicians and Youth Parliament. All rights reserved."
+  },
+  "Commission": {
+    "breadcrumbHome": "Home",
+    "breadcrumbAbout": "About the event",
+    "title": "SDG Commission",
+    "members": [
+      {
+        "name": "Narbayeva Tanzila Kamalovna",
+        "role": "Chairperson of the Senate of the Oliy Majlis of the Republic of Uzbekistan, Co-Chair of the Commission"
+      },
+      {
+        "name": "Ismoilov Nuriddin Mo'ydinxonovich",
+        "role": "Speaker of the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan, Co-Chair of the Commission"
+      },
+      {
+        "name": "Safoyev Sodiq Solihovich",
+        "role": "First Deputy Chairperson of the Senate of the Oliy Majlis of the Republic of Uzbekistan, Deputy Co-Chair of the Commission"
+      },
+      {
+        "name": "Xodjayeva Mavludaxon Islomovna",
+        "role": "Deputy Speaker of the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan, Deputy Co-Chair of the Commission"
+      },
+      {
+        "name": "Gadoyev Erkin Fayziyevich",
+        "role": "Chair of the Senate Committee on Budget and Economic Affairs, Commission Member"
+      },
+      {
+        "name": "Eshmuratov Abdulxakim Xushbokovich",
+        "role": "Chair of the Senate Committee on Judicial-Legal Affairs and Anti-Corruption, Commission Member"
+      },
+      {
+        "name": "Burxanov Kutbidin Nukritdinovich",
+        "role": "Chair of the Senate Committee on Defense and Security Affairs, Commission Member"
+      },
+      {
+        "name": "Abdullayev Bahrom Ismoilovich",
+        "role": "Chair of the Senate Committee on Science, Education and Healthcare, Commission Member"
+      },
+      {
+        "name": "Qozixonova Orzigul Mo'ydinovna",
+        "role": "Chair of the Senate Committee on Youth, Women, Culture and Sports Affairs, Commission Member"
+      },
+      {
+        "name": "To'ychiyev Anvar Mirzaahmedovich",
+        "role": "Chair of the Senate Committee on Agrarian, Water Management and Ecology Affairs, Commission Member"
+      },
+      {
+        "name": "Mamatkarimov Odiljon Oxundedayevich",
+        "role": "Deputy Chair of the Senate Committee on International Relations, Foreign Economic Ties, Foreign Investment and Tourism, Commission Member"
+      },
+      {
+        "name": "Nazarov Sharofiddin Hakimovich",
+        "role": "Chair of the Legislative Chamber Committee on Budget and Economic Affairs, Commission Member"
+      },
+      {
+        "name": "Shermatov Ulug'bek Ubaydullayevich",
+        "role": "Chair of the Legislative Chamber Committee on International Affairs, Defense and Security, Commission Member"
+      },
+      {
+        "name": "Mamutov Ravshan Aminaddinovich",
+        "role": "Chair of the Legislative Chamber Committee on Agrarian and Water Management Affairs, Commission Member"
+      },
+      {
+        "name": "Agzamova Gulrux Anvarovna",
+        "role": "Chair of the Legislative Chamber Committee on the Development of Democratic Institutions and Civil Society, Commission Member"
+      },
+      {
+        "name": "Abdullayev Ilhom Zoirovich",
+        "role": "Chair of the Legislative Chamber Committee on Innovative Development and Information Technologies, Commission Member"
+      },
+      {
+        "name": "Shirinov Jaxongir Jabbarovich",
+        "role": "Chair of the Legislative Chamber Committee on Anti-Corruption and Judicial-Legal Affairs, Commission Member"
+      },
+      {
+        "name": "Bekmurodov Bobur Mansurovich",
+        "role": "Chair of the Legislative Chamber Committee on Entrepreneurship, Competition and Industrial Development, Commission Member"
+      },
+      {
+        "name": "Jumayev Nodir Xosiyatovich",
+        "role": "Chair of the Legislative Chamber Committee on Science, Education, Culture, Sports and Youth Affairs, Commission Member"
+      },
+      {
+        "name": "Gapporov Xayrillo Lutpillayevich",
+        "role": "Chair of the Legislative Chamber Committee on Ecology and Environmental Protection, Commission Member"
+      },
+      {
+        "name": "Muxtorova Nazira Abdusattorovna",
+        "role": "Chair of the Legislative Chamber Committee on Labor, Healthcare and Social Affairs, Commission Member"
+      }
+    ]
+  },
+  "Programs": {
+    "breadcrumbHome": "Home",
+    "title": "Program",
+    "eventTitle": "XII Global Conference of Young Parliamentarians in cooperation with the Inter-Parliamentary Union",
+    "targetIso": "2026-09-03T09:00:00+05:00",
+    "countdown": {
+      "days": "days",
+      "hours": "hours",
+      "minutes": "minutes",
+      "seconds": "seconds",
+      "started": "The conference has started"
+    },
+    "days": [
+      {
+        "id": "d3",
+        "day": "3",
+        "month": "September",
+        "sessions": [
+          {
+            "title": "Delegate registration",
+            "start": "09:00",
+            "end": "18:00",
+            "details": "Registration and accreditation of conference participants and handover of information kits."
+          },
+          {
+            "title": "Opening reception and welcome evening",
+            "start": "18:30",
+            "end": "20:30",
+            "details": "Informal welcome evening and reception for delegates."
+          }
+        ]
+      },
+      {
+        "id": "d4",
+        "day": "4",
+        "month": "September",
+        "sessions": [
+          {
+            "title": "Official opening ceremony",
+            "start": "09:00",
+            "end": "10:30",
+            "details": "Ceremonial opening of the conference and speeches by high-ranking guests."
+          },
+          {
+            "title": "Plenary session: Youth and the Sustainable Development Goals 2030",
+            "start": "11:00",
+            "end": "13:00",
+            "details": "Main plenary session on the role of youth in achieving the sustainable development goals."
+          },
+          {
+            "title": "Lunch break",
+            "start": "13:00",
+            "end": "14:00",
+            "details": "Lunch and networking for participants."
+          },
+          {
+            "title": "Panel discussion: Climate change and youth leadership",
+            "start": "14:30",
+            "end": "16:30",
+            "details": "Expert panel on climate policy and youth initiatives."
+          }
+        ]
+      },
+      {
+        "id": "d5",
+        "day": "5",
+        "month": "September",
+        "sessions": [
+          {
+            "title": "Thematic sessions",
+            "start": "09:30",
+            "end": "12:30",
+            "details": "Parallel thematic sessions on education, digitalization and inclusive policy."
+          },
+          {
+            "title": "Lunch break",
+            "start": "12:30",
+            "end": "13:30",
+            "details": "Lunch and networking for participants."
+          },
+          {
+            "title": "Practical workshops",
+            "start": "14:00",
+            "end": "17:00",
+            "details": "Hands-on skill-building workshops for young parliamentarians."
+          }
+        ]
+      },
+      {
+        "id": "d6",
+        "day": "6",
+        "month": "September",
+        "sessions": [
+          {
+            "title": "Final plenary session and adoption of the resolution",
+            "start": "09:30",
+            "end": "12:00",
+            "details": "Summarizing the conference results and adopting the final resolution."
+          },
+          {
+            "title": "Closing ceremony",
+            "start": "12:30",
+            "end": "14:00",
+            "details": "Ceremonial closing of the conference and closing remarks."
+          }
+        ]
+      }
+    ]
+  },
+  "InfoNote": {
+    "breadcrumbHome": "Home",
+    "breadcrumbAbout": "About the event",
+    "title": "General Information Note",
+    "leadTitle": "General Information Note",
+    "sectionsA": [
+      {
+        "heading": "BACKGROUND",
+        "paragraphs": [
+          "In 2010, at the 122nd Assembly of the Inter-Parliamentary Union (IPU) held in Bangkok, Thailand, IPU Member Parliaments adopted an important resolution entitled \"Youth participation in the democratic process\". As emphasized in this resolution, achieving meaningful democracy requires the full and active participation of young people and youth organizations at the local, national, regional and international levels.",
+          "In this spirit, in 2013 the IPU established the Forum of Young Parliamentarians — an official and permanent body aimed at increasing youth participation in parliaments and in the IPU itself, both quantitatively and qualitatively.",
+          "In 2014, the IPU created the mechanism of annual Global Conferences. It aims to contribute to: (i) strengthening the role of young parliamentarians and the participation of youth in parliamentary work; (ii) developing recommendations on the IPU's work and agenda from a youth perspective; (iii) enhancing networking, solidarity and capacity-building, and broadening young people's approaches to common issues.",
+          "To date, eleven Global Conferences have been held on various themes, including: youth participation in politics and democracy (Switzerland, 2014); democracy, peace and prosperity (Japan, 2015); the Sustainable Development Goals (SDGs) (Zambia, 2016); economic, social and political inclusion (Canada, 2017); promoting sustainability and protecting the interests of future generations (Azerbaijan, 2018); empowering youth through achieving the SDGs and social protection (Paraguay, 2019); a youth-focused approach after COVID-19 (2021, online format); combating climate change (Egypt, 2022); digital transformation and innovation (Vietnam, 2023); preserving education and employment in any circumstances (Armenia, 2024); uniting generations for gender equality (Peru, 2025)."
+        ]
+      },
+      {
+        "heading": "DATE AND VENUE",
+        "paragraphs": [
+          "The IPU's 12th Global Conference of Young Parliamentarians will be held in the city of Samarkand, Uzbekistan, on the theme \"Restoring human rights, justice and dignity for all in turbulent times\". The conference will take place on 4–6 September 2026. The official working sessions of the conference will be held on 4–5 September 2026. The third day of the conference (6 September 2026) will be dedicated to a cultural program organized by the Host Parliament (further details will be provided separately)."
+        ]
+      },
+      {
+        "heading": "PARTICIPATION",
+        "paragraphs": [
+          "All IPU Member Parliaments are invited to send a delegation of young MPs under the age of 40 to participate in the Conference. As a rule, the number of MPs in a delegation from a unicameral parliament should not exceed four. Bicameral parliaments may register up to eight MPs. Parliaments are encouraged to send gender-balanced delegations, including a maximum of two parliamentary staff members.",
+          "IPU Associate Members and Observers dealing with youth issues, as well as selected international and regional youth associations, organizations and parliaments, are also invited to take part in the Conference."
+        ]
+      },
+      {
+        "heading": "ORGANIZATION OF WORK",
+        "paragraphs": [
+          "In accordance with the IPU's usual practice, all delegates will have an equal right to take the floor. To keep discussions as lively, dynamic and respectful as possible, the following rules apply:"
+        ],
+        "bullets": [
+          "No advance list of speakers is drawn up for any agenda item. The chairpersons of the conference sessions compile the list of speakers from among the participants who request the floor at the beginning of a given discussion segment. Session chairs will strive to ensure gender and regional diversity among the selected speakers.",
+          "Participants are asked to take part in a lively and natural discussion without reading out prepared speeches. Session chairs have the right to decide depending on the situation, and oral interventions may not exceed three minutes. Participants may take the floor several times on each issue, particularly to respond to other interventions.",
+          "Participants must not use defamatory, intolerant, sexist, racist, xenophobic or insulting language that incites hatred or violence. Session chairs have the right to call to order a speaker who goes off topic or uses insulting, demeaning or hateful language that disrupts the discussion. If the violation continues or a new violation is committed, the speaker may be deprived of the right to continue speaking. The chair may switch off the speaker's microphone."
+        ]
+      },
+      {
+        "heading": "LANGUAGES AND INTERPRETATION",
+        "paragraphs": [
+          "English and French are the official working languages of the IPU. Nevertheless, simultaneous interpretation into and from Arabic, English, French and Spanish will be available.",
+          "The Senate of the Oliy Majlis of the Republic of Uzbekistan will provide a simultaneous interpretation system at the conference venue. For national delegations wishing to bring their own team of interpreters, only six additional interpretation booths will be available. They are provided on a \"first come, first served\" basis. To request an additional simultaneous interpretation booth, fill in the form in Annex 1 and send it to the Host Parliament by email. The cost of booth rental and interpreters' fees are paid by the delegations themselves.",
+          "For events and activities other than the conference sessions, the working languages will be English or French."
+        ]
+      },
+      {
+        "heading": "REGISTRATION",
+        "paragraphs": [
+          "Parliaments and organizations invited to the Conference are requested to register their participants online by 28 August 2026.",
+          "Please note: registration after this deadline is not guaranteed.",
+          "In order to facilitate the arrival and departure services organized by the Host Parliament, as well as other logistics arrangements, delegations are requested to fill in the online travel form. In the \"Select event\" question, do not forget to select \"XII Global Conference of Young Parliamentarians in cooperation with the Inter-Parliamentary Union\".",
+          "For any questions, the contact details of the IPU and the Host Parliament are provided below:",
+          "Inter-Parliamentary Union"
+        ]
+      }
+    ],
+    "contacts": {
+      "ipu": [
+        "Inter-Parliamentary Union",
+        "5, Chemin du Pommier",
+        "1218 Grand Saconnex",
+        "Switzerland",
+        "Email: postbox@ipu.org",
+        "Tel.: +41 22 919 41 50"
+      ],
+      "senate": [
+        "Secretariat of the Senate of the Oliy Majlis of the Republic of Uzbekistan",
+        "9 Islam Karimov Street",
+        "Tashkent, 100078",
+        "Email: events@senat.uz",
+        "Tel.: (+99878) 238-28-37",
+        "WhatsApp and Telegram: (+99897) 776-06-81"
+      ]
+    },
+    "sectionsB": [
+      {
+        "heading": "VISAS",
+        "paragraphs": [
+          "All conference delegates must have a passport valid for at least three months from the date of arrival in order to enter Uzbekistan.",
+          "According to the legislation of the Republic of Uzbekistan, foreign citizens may enter and transit through Uzbekistan only with an entry visa (except for citizens of states for which a visa-free regime has been established under bilateral agreements with Uzbekistan and decrees of the President of Uzbekistan). The list of such states and the duration of visa-free stay are available on the Host Parliament's website.",
+          "Visas are issued free of charge to all official delegates registered to participate in the 12th Global Conference of Young Parliamentarians.",
+          "If a participant is eligible for and prefers an electronic visa (e-Visa), they may use the electronic system, but a fee is required (as this system is intended only for tourist visas). If a participant is eligible for an e-Visa but does not wish to cover the fee, they are requested to contact visas@senat.uz.",
+          "If your country is not on the list of states eligible for visa-free entry or for a visa through the e-Visa system, please contact the Senate Secretariat at the above address to arrange an Uzbekistan visa.",
+          "Attention: visa applications are accepted until 28 August 2026. No applications or additional documents will be accepted after this deadline.",
+          "For a visa on arrival or other visa matters, contact the Senate Secretariat at the above address and write \"12th Global Conference of Young Parliamentarians\" in the subject line."
+        ]
+      },
+      {
+        "heading": "HOTEL ACCOMMODATION",
+        "paragraphs": [
+          "Delegates cover their own accommodation and meal expenses. The list of official conference hotels is available on the Host Parliament's website. For more information, write to events@senat.uz.",
+          "Delegates are advised to book hotels in advance, as the tourist season begins in autumn in Uzbekistan and many hotels may become fully booked."
+        ]
+      },
+      {
+        "heading": "FLIGHTS AND RECEPTION SERVICES",
+        "paragraphs": [
+          "Delegates must independently arrange and finance their own flights to Samarkand. A welcome desk for all participants will operate at Samarkand International Airport. The Host Parliament will provide transport for all delegates from the airport to the official hotels and at the time of departure.",
+          "All delegations are requested to provide accurate information about the arrival and departure of their participants (date, time and flight details) on the online travel form."
+        ]
+      },
+      {
+        "heading": "LOCAL TRANSPORT",
+        "paragraphs": [
+          "Both the hotels and the conference venue are located within the Silk Road Samarkand tourist complex. A number of hotels are within a 5-minute walk of the conference venue. For hotels located further away within the complex, a dedicated shuttle service will be organized between the hotels and the conference venue, as well as for all official events within the framework of the conference.",
+          "Delegates arriving in Samarkand via Tashkent or other cities of Uzbekistan are requested to arrange their own transport to and from Samarkand. Delegations wishing to order a taxi outside the official program are advised to use companies recommended by the official conference hotels."
+        ]
+      },
+      {
+        "heading": "REGISTRATION AND INFORMATION DESK",
+        "paragraphs": [
+          "The distribution of badges will begin at the conference venue on 3 September 2026 from 09:00."
+        ]
+      },
+      {
+        "heading": "MEALS",
+        "paragraphs": [
+          "Buffet lunches will be provided for all delegates at the conference venue on 4 and 5 September. Lunch will also be provided on 6 September during the cultural event."
+        ]
+      },
+      {
+        "heading": "RECEPTIONS AND EVENTS",
+        "paragraphs": [
+          "Detailed information about the reception organized by the Senate of the Oliy Majlis of the Republic of Uzbekistan will be announced in due course."
+        ]
+      },
+      {
+        "heading": "HEALTH AND MEDICAL INFORMATION",
+        "paragraphs": [
+          "First aid services and medical staff will be available at the respective hotels and at the conference venue. All medical services are at the participants' expense. We recommend that you have international medical insurance.",
+          "Persons undergoing special treatment are advised to bring a sufficient supply of medication. The Secretariat of the Host Parliament requests to be informed as soon as possible about special medical or other needs (for example, dietary requirements, allergies or mobility restrictions) via events@senat.uz.",
+          "The IPU has one recommended hospital: the Samarkand Regional Multidisciplinary Medical Center. This hospital will provide the medical assistance needed during the event.",
+          "It is important for participants taking prescription medication (as well as prescription glasses and medical devices) to bring copies of their prescriptions or relevant medical recommendations with them."
+        ]
+      },
+      {
+        "heading": "SECURITY",
+        "paragraphs": [
+          "All necessary measures will be taken to ensure the safety of conference delegates and events. Participants must wear their identification badges in a visible place at all times during official events. All lost badges must be reported to the Host Parliament immediately."
+        ]
+      },
+      {
+        "heading": "CLIMATE",
+        "paragraphs": [
+          "In September, the average minimum temperature in Samarkand is +12°C, and the average daytime maximum temperature is +24–26°C."
+        ]
+      },
+      {
+        "heading": "CURRENCY",
+        "paragraphs": [
+          "The national currency of Uzbekistan is the soum (UZS). Approximate exchange rate: 12,000 soums = 1 US dollar. The rate may change in accordance with the official rate set by the Central Bank of the Republic of Uzbekistan.",
+          "Banks' usual working hours: Monday to Friday from 09:00 to 16:00. Banking services are available at all commercial banks. Most banks have ATMs that accept Visa and MasterCard. Currency exchange offices are available in many areas of Samarkand.",
+          "Internationally recognized currencies can be exchanged at commercial banks, hotels and Samarkand International Airport. Major credit cards are accepted at most hotels, restaurants and shops."
+        ]
+      },
+      {
+        "heading": "TELECOMMUNICATIONS",
+        "paragraphs": [
+          "Uzbekistan's country code is +998, and the city code for Samarkand is 66. When calling with the country code, drop the zero (0) and dial as follows: +998-66 + phone number. For international calls, the format is: 00 + country code + city code + phone number.",
+          "The following mobile operators are available in Uzbekistan:"
+        ],
+        "bullets": [
+          "Uzmobile",
+          "UMS",
+          "Beeline",
+          "Ucell",
+          "Perfectum Mobile"
+        ],
+        "paragraphsAfter": [
+          "These operators provide internet services via GPRS, 3G, 4G and 5G. Mobile phone SIM cards are widely available. However, by law, each SIM card owner/buyer must register it for activation by providing an identity document (ID card or passport). SIM card registration can be done at the point of purchase."
+        ]
+      },
+      {
+        "heading": "WORKING AND SHOPPING HOURS",
+        "paragraphs": [
+          "Government offices work Monday to Friday from 09:00 to 18:00. Commercial enterprises usually work from 08:00 to 22:00 on weekdays and from 10:00 to 20:00 on weekends. Most markets and shopping centers are open daily from 09:00 to 22:00."
+        ]
+      },
+      {
+        "heading": "SMOKING",
+        "paragraphs": [
+          "Smoking (including electronic cigarettes) is prohibited in all buildings in Samarkand. Information about designated smoking areas at the conference venues will be announced separately."
+        ]
+      },
+      {
+        "heading": "CUSTOMS REGULATIONS",
+        "paragraphs": [
+          "Any delegate wishing to bring special electronic equipment into the Republic of Uzbekistan must fill in a customs form (which can be downloaded from the relevant web page). For more information or clarification, write to info@customs.uz or call (+99855) 502-55-69."
+        ]
+      },
+      {
+        "heading": "LOCAL TIME",
+        "paragraphs": [
+          "Uzbekistan is in the GMT+5 time zone."
+        ]
+      },
+      {
+        "heading": "ELECTRICITY",
+        "paragraphs": [
+          "In Uzbekistan, the electric power is 220 V, 50 Hz. Two types of plug are used:"
+        ],
+        "bullets": [
+          "Type C — two round pins;",
+          "Type F — two round pins and grounding contacts on both sides."
+        ],
+        "paragraphsAfter": [
+          "Most hotels provide adapters on request."
+        ]
+      },
+      {
+        "heading": "IMPORTANT PHONE NUMBERS",
+        "paragraphs": [
+          "Emergency phone numbers in Uzbekistan:"
+        ],
+        "bullets": [
+          "Ambulance: 103",
+          "Police: 102",
+          "Fire safety: 101",
+          "Unified rescue service: 1050"
+        ],
+        "paragraphsAfter": [
+          "Additional information and assistance can be obtained from the Secretariat of the Senate of the Oliy Majlis of the Republic of Uzbekistan:"
+        ],
+        "bullets2": [
+          "Phone: (+99878) 238-28-37",
+          "Email: events@senat.uz",
+          "Host Parliament website"
+        ]
+      }
+    ],
+    "annex": {
+      "label": "ANNEX 1",
+      "title": "12th IPU GLOBAL CONFERENCE OF YOUNG PARLIAMENTARIANS",
+      "dates": "4–6 September 2026, Samarkand, Uzbekistan",
+      "subtitle": "REGISTRATION OF SIMULTANEOUS INTERPRETATION BOOTHS",
+      "instruction": "Fill in this form and send it to the Host Parliament at the following email address: events@senat.uz",
+      "delegation": "DELEGATION: ................................................. (country/organization)",
+      "contactTitle": "Contact information",
+      "fields": [
+        "First name",
+        "Patronymic",
+        "Surname",
+        "Phone",
+        "Fax",
+        "Email",
+        "Department / Organizational unit",
+        "Position",
+        "Organization",
+        "Postal address",
+        "",
+        "",
+        "City / Region",
+        "Postal code",
+        "Country"
+      ],
+      "sessionLabels": [
+        "Date",
+        "dd/mm",
+        "Time",
+        "hh:mm–hh:mm"
+      ],
+      "note": "Note: Booths are provided on a \"first come, first served\" basis. Payment is made directly to the provider."
+    }
+  },
+  "Manifesto": {
+    "quoteName": "First Name Last Name",
+    "quoteRole": "Young parliamentarian",
+    "heading": "Manifesto 2026",
+    "p1": "The “Share Your Idea, Voice Your Opinion” manifesto is a document reflecting how young people want to change the world, expressing the shared hopes and concerns of an entire generation ready to move forward.",
+    "p2": "The manifesto was shaped over several months on the basis of hundreds of proposals and calls for building the future together, grounded in the values of justice, equality and opportunity.",
+    "p3": "The issues it raises — education, employment, transport and many other areas — reflect the views of young people across the country.",
+    "finalQuote": "This manifesto is both a call and an offer. To everyone in power: this is our call to hear you, to act, and to place the voice of youth at the center of the decisions that shape the world. To all young people who have shared their ideas, strength and dreams: this is your moment.",
+    "committee": "Manifesto Committee",
+    "committeeOrg": "Youth Parliament",
+    "downloadHint": "Click the button below to download the full manifesto.",
+    "badgeLabel": "Manifesto 2026",
+    "register": "Register"
+  }
+}
