@@ -124,12 +124,12 @@ function SessionRow({ session }: { session: Session }) {
   );
 }
 
-export function ProgramsSchedule() {
+export function ProgramsSchedule({ days }: { days: Day[] }) {
   const t = useTranslations("Programs");
   const eventTitle = t("eventTitle");
   const targetIso = t("targetIso");
-  const days = t.raw("days") as Day[];
-  const activeDay = days[0];
+  const [activeId, setActiveId] = useState<string | undefined>(days[0]?.id);
+  const activeDay = days.find((d) => d.id === activeId) ?? days[0];
 
   return (
     <div className="space-y-10">
@@ -145,6 +145,27 @@ export function ProgramsSchedule() {
           {eventTitle}
         </h2>
       </div>
+
+      {/* ── Day tabs (only shown when there's more than one day) ── */}
+      {days.length > 1 && (
+        <div className="flex flex-wrap gap-2">
+          {days.map((d) => (
+            <button
+              key={d.id}
+              type="button"
+              onClick={() => setActiveId(d.id)}
+              className={cn(
+                "rounded-full px-4 py-2 text-sm font-semibold transition-colors",
+                d.id === activeDay?.id
+                  ? "bg-primary-container text-white"
+                  : "bg-surface-container-low text-on-surface-variant hover:bg-surface-container",
+              )}
+            >
+              {d.day} {d.month}
+            </button>
+          ))}
+        </div>
+      )}
 
       {/* ── Selected day schedule ── */}
       {activeDay && (

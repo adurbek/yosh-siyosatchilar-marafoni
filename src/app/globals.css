@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 /*
- * Design system: "Global Assembly Blue" — SDG 2030 Youth Parliament.
+ * Design system: "Global Assembly Blue" — Yosh siyosatchilar marafoni.
  * Tokens mirror docs/DESIGN.md, expressed as Tailwind v4 theme variables so
  * utilities like `bg-primary`, `text-on-surface`, `text-display-lg` work.
  */
@@ -150,8 +150,34 @@ body {
   font-family: var(--font-roboto), system-ui, sans-serif !important;
 }
 
+/*
+ * Material Symbols icon font, self-hosted (public/fonts). The file is a subset
+ * containing only the icons the site uses; when adding a new <Icon name="...">
+ * regenerate it via the Google Fonts CSS API with `icon_names=` (sorted list).
+ */
+@font-face {
+  font-family: "Material Symbols Outlined";
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: block;
+  src: url("/fonts/material-symbols-outlined.woff2") format("woff2");
+}
+
 /* Material Symbols icon base styling */
 .material-symbols-outlined {
+  font-family: "Material Symbols Outlined";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: "liga";
+  font-feature-settings: "liga";
+  -webkit-font-smoothing: antialiased;
   font-variation-settings:
     "FILL" 0,
     "wght" 400,

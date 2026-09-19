@@ -3,7 +3,7 @@ generator client {
 }
 
 datasource db {
-  provider = "postgresql"
+  provider = "sqlite"
   url      = env("DATABASE_URL")
 }
 
@@ -41,7 +41,9 @@ model AboutMenuItem {
 }
 
 // Editable content for the "Marafon haqida" conference sections, keyed by slug.
-// body holds paragraphs separated by blank lines.
+// body holds paragraphs separated by blank lines. images is a JSON array of
+// photo paths shown on the page (uploaded /uploads/.. files); NULL = never
+// edited, so the page's built-in default photos apply; "[]" = no photos.
 model PageContent {
   slug      String   @id
   titleUz   String   @default("")
@@ -50,6 +52,7 @@ model PageContent {
   bodyUz    String   @default("")
   bodyRu    String   @default("")
   bodyEn    String   @default("")
+  images    String?
   updatedAt DateTime @updatedAt
 }
 
@@ -69,6 +72,34 @@ model HeroContent {
   organizerEn   String   @default("")
   countdownTarget String @default("") // ISO datetime with offset, e.g. 2026-09-03T00:00:00+05:00
   updatedAt     DateTime @updatedAt
+}
+
+// "Dastur" (program) schedule: a day of the marathon, with its ordered
+// sessions. Managed from the admin panel; falls back to the message-file
+// schedule when empty.
+model ProgramDay {
+  id       String           @id @default(cuid())
+  order    Int              @default(0)
+  day      String           @default("") // day-of-month numeral, e.g. "15"
+  monthUz  String           @default("")
+  monthRu  String           @default("")
+  monthEn  String           @default("")
+  sessions ProgramSession[]
+}
+
+model ProgramSession {
+  id         String     @id @default(cuid())
+  dayId      String
+  programDay ProgramDay @relation(fields: [dayId], references: [id], onDelete: Cascade)
+  order      Int        @default(0)
+  start      String     @default("")
+  end        String     @default("")
+  titleUz    String     @default("")
+  titleRu    String     @default("")
+  titleEn    String     @default("")
+  detailsUz  String     @default("")
+  detailsRu  String     @default("")
+  detailsEn  String     @default("")
 }
 
 // Media library: photos (uploaded to /public/uploads) or videos (URL/embed).

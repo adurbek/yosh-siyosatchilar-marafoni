@@ -73,12 +73,6 @@ export default async function LocaleLayout(props: {
       lang={locale}
       className={`${hanken.variable} ${inter.variable} ${jetbrains.variable} ${roboto.variable} h-full`}
     >
-      <head>
-        <link
-          href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap"
-          rel="stylesheet"
-        />
-      </head>
       <body className="min-h-full flex flex-col bg-background text-on-surface font-body antialiased">
         <NextIntlClientProvider>
           <LoadingScreen />

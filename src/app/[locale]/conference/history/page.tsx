@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { ArticlePage } from "@/components/conference/ArticlePage";
 import { getPageContent } from "@/lib/page-content";
+import { resolvePageImages } from "@/lib/page-images";
 
 const FALLBACK_TITLE = "Yoshlar parlamenti tarixi";
 
@@ -33,7 +34,7 @@ export default async function HistoryPage(props: {
       }}
       title={title}
       paragraphs={paragraphs}
-      images={[]}
+      images={resolvePageImages("history", managed?.images)}
     />
   );
 }

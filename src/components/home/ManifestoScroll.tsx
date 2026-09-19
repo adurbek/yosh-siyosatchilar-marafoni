@@ -4,6 +4,25 @@ import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Container } from "@/components/ui/Container";
 
+// Heavy closing quotation mark (flat-topped blocks with a hooked tail). Drawn
+// as SVG because every text node on the site is forced to Roboto, whose ” glyph
+// has a different, slanted shape.
+function QuoteMark() {
+  const mark =
+    "M0 0H11V16.5C10.5 19 6.5 23 3 24H-.5C-1.7 21 -1.8 19 .5 17.3C2.5 15.8 3 14.5 3 12.5V12H0Z";
+  return (
+    <svg
+      aria-hidden
+      viewBox="-2 0 27 24"
+      fill="currentColor"
+      className="mb-3 block h-8 w-auto text-[#0f2a56]"
+    >
+      <path d={mark} />
+      <path d={mark} transform="translate(13.5 0)" />
+    </svg>
+  );
+}
+
 /**
  * Manifesto section shown right after the Hero.
  *
@@ -54,9 +73,7 @@ export function ManifestoScroll({
 
           {paragraphs[0] && (
             <figure className="border-t-4 border-primary bg-[#f1f2f4] p-6 md:p-8">
-              <div className="mb-3 font-display text-5xl leading-none text-[#0f2a56]">
-                &quot;
-              </div>
+              <QuoteMark />
               <blockquote className="font-body text-body-md font-medium leading-relaxed text-on-primary-fixed md:text-lg">
                 {paragraphs[0]}
               </blockquote>
@@ -95,7 +112,7 @@ export function ManifestoScroll({
 
           {/* Yakuniy iqtibos */}
           <figure className="border-t-4 border-primary bg-[#f1f2f4] p-6 md:p-8">
-            <div className="mb-3 font-display text-5xl leading-none text-[#0f2a56]">&quot;</div>
+            <QuoteMark />
             <blockquote className="font-body text-body-md font-medium leading-relaxed text-on-primary-fixed md:text-lg">
               {t("finalQuote")}
             </blockquote>

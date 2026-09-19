@@ -9,6 +9,12 @@ export const CONTENT_SECTIONS = [
     route: "/conference",
   },
   {
+    slug: "lower-house",
+    label: "Oliy Majlis Qonunchilik palatasi huzuridagi Yoshlar parlamenti",
+    ns: "LowerHouse",
+    route: "/conference/lower-house",
+  },
+  {
     slug: "parliament-youth",
     label: "Parlament va yoshlar",
     ns: "ParliamentYouth",
@@ -35,6 +41,11 @@ export const STANDALONE_SECTIONS = [
 ] as const;
 
 export const ALL_SECTIONS = [...CONTENT_SECTIONS, ...STANDALONE_SECTIONS];
+
+/** Every "Marafon haqida" section has an editable photo list in the admin. */
+export function hasPhotos(slug: string): boolean {
+  return CONTENT_SECTIONS.some((s) => s.slug === slug);
+}
 
 export type ContentSection = (typeof ALL_SECTIONS)[number];
 

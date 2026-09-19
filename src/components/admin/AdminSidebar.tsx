@@ -31,7 +31,7 @@ export function AdminSidebar() {
     "flex items-center justify-between rounded-lg px-3 py-2.5 text-left text-sm font-medium text-white/80 transition-colors hover:bg-white/10 hover:text-white";
 
   return (
-    <aside className="flex w-64 flex-shrink-0 flex-col bg-primary-container text-white">
+    <aside className="sticky top-0 flex h-screen w-64 flex-shrink-0 flex-col overflow-y-auto bg-primary-container text-white">
       <div className="px-6 py-6 text-lg font-bold">Manifist admin</div>
       <nav className="flex flex-1 flex-col gap-1 px-3">
         <a href="/admin" className={linkCls(pathname?.endsWith("/admin") ?? false)}>

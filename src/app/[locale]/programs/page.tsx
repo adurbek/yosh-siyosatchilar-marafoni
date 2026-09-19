@@ -7,6 +7,7 @@ import { Container } from "@/components/ui/Container";
 import { Icon } from "@/components/ui/Icon";
 import { ProgramsSchedule } from "@/components/programs/ProgramsSchedule";
 import { getPageContent } from "@/lib/page-content";
+import { getProgramDays, type ProgramDayView } from "@/lib/programs-content";
 
 export async function generateMetadata(props: {
   params: Promise<{ locale: string }>;
@@ -26,6 +27,9 @@ export default async function ProgramsPage(props: {
   const managed = await getPageContent("dastur", locale);
   const title = managed?.title ?? t("title");
   const intro = managed?.paragraphs ?? null;
+
+  const dbDays = await getProgramDays(locale);
+  const days = dbDays ?? (t.raw("days") as ProgramDayView[]);
 
   return (
     <>
@@ -64,7 +68,7 @@ export default async function ProgramsPage(props: {
         </Container>
 
         <Container className="pb-16">
-          <ProgramsSchedule />
+          <ProgramsSchedule days={days} />
         </Container>
       </main>
       <Footer />

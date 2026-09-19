@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { Header } from "@/components/layout/Header";
@@ -6,8 +7,8 @@ import { Footer } from "@/components/layout/Footer";
 import { Container } from "@/components/ui/Container";
 import { Icon } from "@/components/ui/Icon";
 import { RelatedLinks } from "@/components/conference/RelatedLinks";
-import { TealWedge } from "@/components/conference/TealWedge";
 import { getPageContent } from "@/lib/page-content";
+import { resolvePageImages } from "@/lib/page-images";
 
 type Section = {
   heading: string;
@@ -69,6 +70,7 @@ export default async function InfoNotePage(props: {
   const managed = await getPageContent("info-note", locale);
   const title = managed?.title ?? t("title");
   const intro = managed?.paragraphs ?? null;
+  const images = resolvePageImages("info-note", managed?.images);
 
   const sectionsA = t.raw("sectionsA") as Section[];
   const sectionsB = t.raw("sectionsB") as Section[];
@@ -121,6 +123,26 @@ export default async function InfoNotePage(props: {
             <div className="mt-6 space-y-4 font-body text-body-md leading-relaxed text-on-surface-variant">
               {intro.map((p, i) => (
                 <p key={i}>{p}</p>
+              ))}
+            </div>
+          )}
+
+          {/* Admin-managed photos (none by default) */}
+          {images.length > 0 && (
+            <div className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+              {images.map((src, i) => (
+                <div
+                  key={i}
+                  className="relative aspect-[4/3] w-full overflow-hidden rounded-sm shadow-sm"
+                >
+                  <Image
+                    src={src}
+                    alt=""
+                    fill
+                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                    className="object-cover"
+                  />
+                </div>
               ))}
             </div>
           )}
@@ -221,9 +243,6 @@ export default async function InfoNotePage(props: {
                   <span>{annex.note}</span>
                 </p>
               </div>
-
-              {/* Decorative teal diagonal wedge */}
-              <TealWedge className="pointer-events-none absolute -right-10 bottom-0 hidden h-[520px] w-[320px] lg:block" />
             </div>
           </div>
         </Container>

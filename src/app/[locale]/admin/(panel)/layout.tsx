@@ -4,6 +4,7 @@ import {
   seedFaqIfEmpty,
   seedAboutMenuIfEmpty,
   seedPageContentIfEmpty,
+  seedProgramDaysIfEmpty,
 } from "@/lib/admin-seed";
 import { AdminSidebar } from "@/components/admin/AdminSidebar";
 
@@ -16,6 +17,7 @@ export default async function AdminPanelLayout({
   await seedFaqIfEmpty();
   await seedAboutMenuIfEmpty();
   await seedPageContentIfEmpty();
+  await seedProgramDaysIfEmpty();
 
   return (
     <div className="flex min-h-screen bg-surface-container-high text-on-surface">

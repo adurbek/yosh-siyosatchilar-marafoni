@@ -46,11 +46,6 @@
     "description": "Parlamentlararo Ittifoqning yoshlarning siyosatdagi ishtirokini qo'llab-quvvatlashga sodiqligi 2010-yilda Bangkokda (Tailand) bo'lib o'tgan Parlamentlararo Ittifoqning 122-Assambleyasida \"Demokratik jarayonda yoshlarning ishtiroki\" rezolyutsiyasini qabul qilishdan boshlangan.",
     "cta": "Ro'yxatdan o'tish"
   },
-  "Sdg": {
-    "title": "O'zbekistonda barqaror rivojlanish <accent>maqsadlari</accent>",
-    "description": "BMT va O'zbekistondagi hamkorlari barqaror rivojlanish maqsadlariga erishish uchun ishlamoqda: O'zbekiston va butun dunyodagi odamlar uchun asosiy rivojlanish muammolarini hal qilishga yo'naltirilgan 17 o'zaro bog'liq va ulkan maqsad.",
-    "cta": "Batafsil"
-  },
   "News": {
     "title": "Manifist",
     "more": "Batafsil",
@@ -59,89 +54,6 @@
     "breadcrumbHome": "Bosh sahifa",
     "other": "Boshqa yangiliklar",
     "items": [
-      {
-        "id": "1",
-        "date": "2026-08-18",
-        "title": "Barqaror rivojlanish maqsadlari oyligiga start berildi",
-        "excerpt": "6-avgust kuni Senatda Barqaror rivojlanish maqsadlari oyligiga rasman start beruvchi \"Barqaror rivojlanish maqsadlari: milliy taraqqiyotning yangi bosqichi\" mavzusida konferensiya bo'lib o'tdi.",
-        "body": [
-          "6-avgust kuni Senatda Barqaror rivojlanish maqsadlari oyligiga rasman start beruvchi \"Barqaror rivojlanish maqsadlari: milliy taraqqiyotning yangi bosqichi\" mavzusida konferensiya bo'lib o'tdi.",
-          "Unda parlament a'zolari, vazirlik va idoralar rahbarlari, BMTning mamlakatimizdagi vakolatxonasi vakili, Parlamentlararo ittifoq kotibiyati rahbariyati hamda nodavlat notijorat tashkilotlari, ommaviy axborot vositalari vakillari va tadbirkorlar ishtirok etdi.",
-          "Tadbirni Oliy Majlis Senati Raisi, Barqaror rivojlantirish sohasidagi Milliy maqsad va vazifalarning 2030-yilgacha bo'lgan davrda amalga oshirilishini nazorat qilish bo'yicha Parlament komissiyasi hamraisi Tanzila Narbayeva ochib berdi.",
-          "Ta'kidlanganidek, Barqaror rivojlanish maqsadlari oyligi davomida respublika bo'ylab yuzlab tadbirlar tashkil etiladi. Jumladan, parlament eshituvlari, mahalliy Kengashlar sessiyalari, ilmiy-amaliy konferensiyalar, forumlar, davra suhbatlari, ochiq muloqotlar, mahallalarda uchrashuvlar, targ'ibot tadbirlari, ommaviy axborot vositalari va ijtimoiy tarmoqlarda maxsus media-loyihalar amalga oshiriladi.",
-          "BRM oyligini o'tkazishdan maqsad – aholida BRM g'oyalariga daxldorlik hissini mustahkamlash, mamlakatimizda amalga oshirilayotgan islohotlar samarasini keng namoyon etish va umumiy maqsadlar yo'lidagi sa'y-harakatlarni birlashtirishga qaratilgan.",
-          "Konferensiyada so'zga chiqqan ma'ruzachilar, xorijiy va milliy ekspertlar ta'kidlanganidek, mamlakatimiz 16 ta milliy Barqaror rivojlanish maqsadi va 126 ta vazifani qabul qilib, ularni \"O'zbekiston – 2030\" strategiyasining ustuvor yo'nalishlari bilan to'liq uyg'unlashtirgan.",
-          "Mazkur strategik yondashuv asosida amalga oshirilgan izchil islohotlar natijasida Barqaror rivojlanish maqsadlarining 70 foizidan ortig'i bo'yicha sezilarli ijobiy natijalarga erishilib, 45 foizi bo'yicha esa belgilangan ko'rsatkichlar to'liq ro'yobga chiqarilgan.",
-          "Ayniqsa, kambag'allik darajasi 2021-yildagi 17 foizdan 2025-yil yakunida 5,8 foizga qisqardi.",
-          "Maktabgacha ta'lim bilan qamrov 27,7 foizdan 78 foizga, oliy ta'lim bilan qamrov esa 8,3 foizdan 47,7 foizga yetdi.",
-          "Davlat boshqaruvida xotin-qizlar ulushi 27 foizdan 35 foizga, Qonunchilik palatasida 38 foizga, mahalliy Kengashlarda esa 32,5 foizga yetdi.",
-          "Bu natijalarning barchasi Yangi O'zbekistonda amalga oshirilayotgan islohotlar inson manfaatlarini ta'minlash va barqaror taraqqiyotni kafolatlashga xizmat qilayotganining yaqqol ifodasidir."
-        ]
-      },
-      {
-        "id": "2",
-        "date": "2026-08-18",
-        "title": "Yosh parlament a'zolarining XII global konferensiyasiga tayyorgarlik masalalari muhokama qilindi",
-        "excerpt": "28-iyul kuni Oliy Majlis Senati Raisi Tanzila Narbayeva rahbarligida Parlamentlararo ittifoqning Yosh parlament a'zolarining XII global konferensiyasini Samarqand shahrida o'tkazish bo'yicha Tashkiliy qo'mita yig'ilishi bo'lib o'tdi.",
-        "body": [
-          "28-iyul kuni Oliy Majlis Senati Raisi Tanzila Narbayeva rahbarligida Parlamentlararo ittifoqning Yosh parlament a'zolarining XII global konferensiyasini Samarqand shahrida o'tkazish bo'yicha Tashkiliy qo'mita yig'ilishi bo'lib o'tdi.",
-          "Yig'ilishda konferensiyaga tayyorgarlik ko'rish, tashkiliy-texnik masalalar hamda xalqaro hamkorlik yo'nalishlari muhokama qilindi.",
-          "Konferensiya yosh parlamentariylarni birlashtirib, ularning tajriba almashishi va barqaror rivojlanish maqsadlariga hissa qo'shishi uchun muhim maydon bo'lishi ta'kidlandi."
-        ]
-      },
-      {
-        "id": "3",
-        "date": "2026-07-24",
-        "title": "O'zbekistonda urbanizatsiya darajasi 51 foizga yetdi",
-        "excerpt": "2026-yil 18-iyun kuni O'zbekiston Respublikasini barqaror rivojlantirish sohasidagi Milliy maqsad va vazifalarning 2030-yilgacha bo'lgan davrda amalga oshirilishini nazorat qilish bo'yicha Parlament komissiyasining yig'ilishi bo'lib o'tdi.",
-        "body": [
-          "2026-yil 18-iyun kuni O'zbekiston Respublikasini barqaror rivojlantirish sohasidagi Milliy maqsad va vazifalarning 2030-yilgacha bo'lgan davrda amalga oshirilishini nazorat qilish bo'yicha Parlament komissiyasining yig'ilishi bo'lib o'tdi.",
-          "Yig'ilishda mamlakatda urbanizatsiya jarayonlari, hududlarni muvozanatli rivojlantirish va barqaror shaharsozlik masalalari ko'rib chiqildi.",
-          "Shuningdek, aholi punktlarini rivojlantirish, infratuzilma va aholi farovonligini oshirishga qaratilgan chora-tadbirlar muhokama qilindi."
-        ]
-      },
-      {
-        "id": "4",
-        "date": "2026-06-05",
-        "title": "Senat Raisi startap faoliyati bilan shug'ullanayotgan yoshlar bilan uchrashdi",
-        "excerpt": "Oliy Majlis Senati Raisi Tanzila Narbayeva startap loyihalari bilan shug'ullanayotgan faol tashabbuskor yoshlar bilan uchrashuv o'tkazdi."
-      },
-      {
-        "id": "5",
-        "date": "2026-06-05",
-        "title": "Parlamentlararo hamkorlik bo'yicha birinchi Global forum Buxoroda BRMga erishishda",
-        "excerpt": "2021-yilning 23-24-iyun kunlari Buxoro shahrida Barqaror rivojlanish maqsadlariga (BRM) erishishda global parlamentlararo hamkorlik masalalariga bag'ishlangan I Global forum bo'lib o'tdi."
-      },
-      {
-        "id": "6",
-        "date": "2026-06-05",
-        "title": "Senat Raisi Jenevada Parlamentlararo ittifoq Bosh kotibi bilan uchrashuv o'tkazdi",
-        "excerpt": "2025-yil oktyabr oyida Oliy Majlis Senati Raisi Tanzila Narbayeva Parlamentlararo Ittifoqning 151-Assambleyasi doirasida Parlamentlararo Ittifoq Bosh kotibi Martin Chungong bilan uchrashuv o'tkazdi."
-      },
-      {
-        "id": "7",
-        "date": "2026-06-05",
-        "title": "Yosh parlament a'zolari forumida barqaror taraqqiyot va global hamkorlik masalalari ko'rib chiqildi",
-        "excerpt": "Parlamentlararo ittifoqning 152-assambleyasi doirasida Yosh parlament a'zolari forumi bo'lib o'tdi. Unda Oliy Majlis Senati Raisi Tanzila Narbayeva boshchiligidagi O'zbekiston parlamenti delegatsiyasi ishtirok etdi."
-      },
-      {
-        "id": "8",
-        "date": "2026-06-05",
-        "title": "O'rmonlardan oqilona foydalanish va cho'llanishga qarshi kurashish masalalari muhokama qilindi",
-        "excerpt": "Joriy yilning 23-aprel kuni Barqaror rivojlantirish sohasidagi Milliy maqsad va vazifalarning 2030-yilgacha bo'lgan davrda amalga oshirilishini nazorat qilish bo'yicha Parlament komissiyasining navbatdagi majlisi bo'lib o'tdi."
-      },
-      {
-        "id": "9",
-        "date": "2026-06-05",
-        "title": "Toshkentda ikkinchi Global forumda BRMga erishishda parlamentlar rolini kuchaytirish masalalari muhokama qilindi",
-        "excerpt": "2023-yil 30-noyabr kuni Toshkent shahridagi \"O'zbekiston\" xalqaro anjumanlar saroyida Barqaror rivojlanish maqsadlarini amalga oshirishda parlamentlararo hamkorlik masalalari muhokama qilindi."
-      },
-      {
-        "id": "10",
-        "date": "2026-06-05",
-        "title": "Nogironligi bo'lgan shaxslarning huquqlarini himoya qilish masalalari muhokama qilindi",
-        "excerpt": "2026-yil 18-fevral kuni O'zbekiston Respublikasini barqaror rivojlantirish sohasidagi milliy maqsad va vazifalarning 2030-yilgacha bo'lgan davrda amalga oshirilishini nazorat qilish bo'yicha Parlament komissiyasining majlisi bo'lib o'tdi."
-      },
       {
         "id": "11",
         "date": "2026-05-28",
@@ -714,97 +626,6 @@
     "address": "Oliy Majlis Qonunchilik palatasi, Toshkent",
     "phoneLabel": "Aloqa uchun telefon:",
     "rights": "© 2026 Yosh siyosatchilar va yoshlar parlamenti. Barcha huquqlar himoyalangan."
-  },
-  "Commission": {
-    "breadcrumbHome": "Bosh sahifa",
-    "breadcrumbAbout": "Tadbir haqida",
-    "title": "BRM komissiyasi",
-    "members": [
-      {
-        "name": "Narbayeva Tanzila Kamalovna",
-        "role": "O'zbekiston Respublikasi Oliy Majlisi Senatining Raisi, Komissiya hamraisi"
-      },
-      {
-        "name": "Ismoilov Nuriddin Mo'ydinxonovich",
-        "role": "O'zbekiston Respublikasi Oliy Majlisi Qonunchilik palatasining Spikeri, Komissiya hamraisi"
-      },
-      {
-        "name": "Safoyev Sodiq Solihovich",
-        "role": "O'zbekiston Respublikasi Oliy Majlisi Senati Raisining birinchi o'rinbosari, Komissiya hamraisining o'rinbosari"
-      },
-      {
-        "name": "Xodjayeva Mavludaxon Islomovna",
-        "role": "O'zbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi Spikerining o'rinbosari, Komissiya hamraisining o'rinbosari"
-      },
-      {
-        "name": "Gadoyev Erkin Fayziyevich",
-        "role": "Senatning Budjet va iqtisodiy masalalar qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Eshmuratov Abdulxakim Xushbokovich",
-        "role": "Senatning Sud-huquq masalalari va korrupsiyaga qarshi kurashish qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Burxanov Kutbidin Nukritdinovich",
-        "role": "Senatning Mudofaa va xavfsizlik masalalari qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Abdullayev Bahrom Ismoilovich",
-        "role": "Senatning Fan, ta'lim va sog'liqni saqlash masalalari qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Qozixonova Orzigul Mo'ydinovna",
-        "role": "Senatning Yoshlar, xotin-qizlar, madaniyat va sport masalalari qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "To'ychiyev Anvar Mirzaahmedovich",
-        "role": "Senatning Agrar, suv xo'jaligi masalalari va ekologiya qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Mamatkarimov Odiljon Oxundedayevich",
-        "role": "Senatning Xalqaro munosabatlar, tashqi iqtisodiy aloqalar, xorijiy investitsiyalar va turizm masalalari qo'mitasi raisining o'rinbosari, Komissiya a'zosi"
-      },
-      {
-        "name": "Nazarov Sharofiddin Hakimovich",
-        "role": "Qonunchilik palatasining Budjet va iqtisodiy masalalar qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Shermatov Ulug'bek Ubaydullayevich",
-        "role": "Qonunchilik palatasining Xalqaro ishlar, mudofaa va xavfsizlik masalalari qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Mamutov Ravshan Aminaddinovich",
-        "role": "Qonunchilik palatasining Agrar va suv xo'jaligi masalalari qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Agzamova Gulrux Anvarovna",
-        "role": "Qonunchilik palatasining Demokratik institutlar va fuqarolik jamiyatini rivojlantirish masalalari qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Abdullayev Ilhom Zoirovich",
-        "role": "Qonunchilik palatasining Innovatsion rivojlanish va axborot texnologiyalari masalalari qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Shirinov Jaxongir Jabbarovich",
-        "role": "Qonunchilik palatasining Korrupsiyaga qarshi kurashish va sud-huquq masalalari qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Bekmurodov Bobur Mansurovich",
-        "role": "Qonunchilik palatasining Tadbirkorlik, raqobat va sanoatni rivojlantirish masalalari qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Jumayev Nodir Xosiyatovich",
-        "role": "Qonunchilik palatasining Fan, ta'lim, madaniyat, sport va yoshlar masalalari qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Gapporov Xayrillo Lutpillayevich",
-        "role": "Qonunchilik palatasining Ekologiya va atrof muhitni muhofaza qilish masalalari qo'mitasi raisi, Komissiya a'zosi"
-      },
-      {
-        "name": "Muxtorova Nazira Abdusattorovna",
-        "role": "Qonunchilik palatasining Mehnat, sog'liqni saqlash va ijtimoiy masalalar qo'mitasi raisi, Komissiya a'zosi"
-      }
-    ]
   },
   "Programs": {
     "breadcrumbHome": "Bosh sahifa",

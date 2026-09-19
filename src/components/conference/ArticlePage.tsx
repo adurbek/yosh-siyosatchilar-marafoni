@@ -5,7 +5,6 @@ import { Footer } from "@/components/layout/Footer";
 import { Container } from "@/components/ui/Container";
 import { Icon } from "@/components/ui/Icon";
 import { RelatedLinks } from "@/components/conference/RelatedLinks";
-import { TealWedge } from "@/components/conference/TealWedge";
 
 function Divider() {
   return (
@@ -77,7 +76,7 @@ export function ArticlePage({ breadcrumb, title, paragraphs, images }: Props) {
               ))}
             </div>
 
-            {/* Right rail: stacked photos capped by a teal diagonal wedge */}
+            {/* Right rail: stacked photos */}
             <div className="flex flex-col gap-6">
               {images.map((src, i) => (
                 <div
@@ -93,7 +92,6 @@ export function ArticlePage({ breadcrumb, title, paragraphs, images }: Props) {
                   />
                 </div>
               ))}
-              <TealWedge className="hidden h-72 w-full lg:block" />
             </div>
           </div>
         </Container>

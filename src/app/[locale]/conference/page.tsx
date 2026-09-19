@@ -8,11 +8,7 @@ import { Container } from "@/components/ui/Container";
 import { Icon } from "@/components/ui/Icon";
 import { RelatedLinks } from "@/components/conference/RelatedLinks";
 import { getPageContent } from "@/lib/page-content";
-
-const IMG_1 =
-  "https://lh3.googleusercontent.com/aida-public/AB6AXuAM_T8x9yTMXfJLZzQyw6Z-zgQJfu0E7jeIR1x_CODwkk9DtLy-Gzgh2_b_tDPrnJyn7zmBrawmpBMHV5qJChHx_ZLMsMIonvEVOAR4eh2knDZ28Sc2Lvl39zpZTGKcJi5Z_2SZ7LTbDAjL_Iu4APN3z7zYyfaFLVceFr39rj-dDEC9WtD1XlIY7jXe2WF5zlLMJJKk61w6-Q0T3Zo2o4qVzB6dQx72JzWG3htpYVy8XbIwEued6MeN-BV0nkMO12iHCw";
-const IMG_2 =
-  "https://lh3.googleusercontent.com/aida-public/AB6AXuA578NtY4tlzyuEU5L7zzur1mO0Kdh3vI4ltDQEZQJWeVTM_nL0IUEfVxYRNp00RIeXkCQPpF18LtOE8IeuHBDdF7Wx18529E0iusBNof4KVxM1FTnWA4hPdSER4CusQFTPbUjjaZODlAtUvBPGdqEnQ_iIFI0CurMNotA3iT06VGu1b8E9w4M1VTsXt6uCipEzEq3QoXOMwKjWPMyg3lZEtW5GBEWSqIQtcC5IZzhWWfDio0mgH83vEUKwbYFAkGVV7Q";
+import { resolvePageImages } from "@/lib/page-images";
 
 // Thin dotted rule used to separate the major content blocks.
 function Divider() {
@@ -38,6 +34,7 @@ export default async function ConferencePage(props: {
   const managed = await getPageContent("conference", locale);
   const title = managed?.title ?? t("title");
   const intro = managed?.paragraphs ?? null;
+  const images = resolvePageImages("conference", managed?.images);
 
   return (
     <>
@@ -113,32 +110,22 @@ export default async function ConferencePage(props: {
               </div>
             </div>
 
-            {/* Right rail: two photos with the signature teal diagonal accents */}
+            {/* Right rail: photos */}
             <div className="relative flex flex-col gap-6">
-              <div className="relative aspect-[4/3] w-full overflow-hidden rounded-sm shadow-sm">
-                <Image
-                  src={IMG_1}
-                  alt=""
-                  fill
-                  sizes="(max-width: 1024px) 100vw, 460px"
-                  className="object-cover"
-                />
-              </div>
-              <div className="relative aspect-[4/3] w-full overflow-hidden rounded-sm shadow-sm">
-                <Image
-                  src={IMG_2}
-                  alt=""
-                  fill
-                  sizes="(max-width: 1024px) 100vw, 460px"
-                  className="object-cover"
-                />
-              </div>
-              {/* Decorative teal parallelogram anchored bottom-right */}
-              <div
-                aria-hidden
-                className="pointer-events-none absolute -bottom-6 -right-4 hidden h-28 w-40 bg-gradient-to-br from-secondary-fixed-dim to-primary-container lg:block"
-                style={{ clipPath: "polygon(28% 0, 100% 0, 72% 100%, 0 100%)" }}
-              />
+              {images.map((src, i) => (
+                <div
+                  key={i}
+                  className="relative aspect-[4/3] w-full overflow-hidden rounded-sm shadow-sm"
+                >
+                  <Image
+                    src={src}
+                    alt=""
+                    fill
+                    sizes="(max-width: 1024px) 100vw, 460px"
+                    className="object-cover"
+                  />
+                </div>
+              ))}
             </div>
           </div>
         </Container>

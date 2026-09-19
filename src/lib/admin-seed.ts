@@ -47,6 +47,59 @@ async function seedFaqIfEmptyImpl() {
   });
 }
 
+type JsonSession = { title: string; start: string; end: string; details?: string };
+type JsonDay = { id: string; day: string; month: string; sessions: JsonSession[] };
+
+let programDaysSeedPromise: Promise<void> | null = null;
+
+/**
+ * Seed the ProgramDay/ProgramSession tables from the existing "Programs.days"
+ * message JSON the first time the admin panel is opened.
+ */
+export async function seedProgramDaysIfEmpty() {
+  if (!programDaysSeedPromise) programDaysSeedPromise = seedProgramDaysIfEmptyImpl();
+  return programDaysSeedPromise;
+}
+
+async function seedProgramDaysIfEmptyImpl() {
+  const count = await prisma.programDay.count();
+  if (count > 0) return;
+
+  type ProgramsMsgs = { Programs?: { days?: JsonDay[] } };
+  const uzDays = ((uz as ProgramsMsgs).Programs?.days ?? []) as JsonDay[];
+  const ruDays = ((ru as ProgramsMsgs).Programs?.days ?? []) as JsonDay[];
+  const enDays = ((en as ProgramsMsgs).Programs?.days ?? []) as JsonDay[];
+  if (uzDays.length === 0) return;
+
+  for (let di = 0; di < uzDays.length; di++) {
+    const ud = uzDays[di];
+    const rd = ruDays[di];
+    const ed = enDays[di];
+    await prisma.programDay.create({
+      data: {
+        order: di,
+        day: ud.day,
+        monthUz: ud.month,
+        monthRu: rd?.month ?? "",
+        monthEn: ed?.month ?? "",
+        sessions: {
+          create: ud.sessions.map((s, si) => ({
+            order: si,
+            start: s.start,
+            end: s.end,
+            titleUz: s.title,
+            titleRu: rd?.sessions?.[si]?.title ?? "",
+            titleEn: ed?.sessions?.[si]?.title ?? "",
+            detailsUz: s.details ?? "",
+            detailsRu: rd?.sessions?.[si]?.details ?? "",
+            detailsEn: ed?.sessions?.[si]?.details ?? "",
+          })),
+        },
+      },
+    });
+  }
+}
+
 type AboutMenu = Record<string, string>;
 
 /**
