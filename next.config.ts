@@ -56,7 +56,9 @@ const nextConfig: NextConfig = {
   // processes for static generation crashes with OOM ("Jest worker
   // encountered child process exceptions"). Use worker_threads (shares the
   // parent's process memory) instead of forking a full child process.
-  experimental: { cpus: 1, workerThreads: true },
+  // globalNotFound enables app/global-not-found.tsx (custom 404 for unmatched
+  // URLs; needed because the root layout lives under the [locale] segment).
+  experimental: { cpus: 1, workerThreads: true, globalNotFound: true },
   images: {
     remotePatterns: [
       { protocol: "https", hostname: "lh3.googleusercontent.com" },
